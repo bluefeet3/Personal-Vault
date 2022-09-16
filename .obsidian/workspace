@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "a10e32b48b209f1d",
+    "id": "bf19b1805d7e0802",
     "type": "split",
     "children": [
       {
-        "id": "417671cd6546d50c",
+        "id": "e4de0ffb551255e1",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f22b26e4603b1f43",
+    "id": "8cb9dadf992a3283",
     "type": "split",
     "children": [
       {
-        "id": "ffb29dcd8ce43696",
+        "id": "47ceaff9fefd1418",
         "type": "tabs",
         "children": [
           {
-            "id": "692a877c7fe707df",
+            "id": "3e362e1d164d7c3c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "66a2d43224ac901c",
+            "id": "d7329cf95595eb12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "8026f72aa4a8c642",
+            "id": "a0005c7f747f7570",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "366e0798064f1556",
+    "id": "aa5487a4984a0751",
     "type": "split",
     "children": [
       {
-        "id": "fab95c6d8a5201b2",
+        "id": "dd98fcd0db513c11",
         "type": "tabs",
         "children": [
           {
-            "id": "51b3fffd68c7e46f",
+            "id": "8c12087a07f291ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "9fb60064ccacd042",
+            "id": "e09b24bcd4489d27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "f4ab864605615342",
+            "id": "858d9b3c96de30e5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "b24cd1bedcc4489f",
+            "id": "7f189760093f95cb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,6 +120,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "417671cd6546d50c",
-  "lastOpenFiles": []
+  "active": "e4de0ffb551255e1",
+  "lastOpenFiles": [
+    "Personal-Vault/Untitled.md"
+  ]
 }
