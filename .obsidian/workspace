@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PHYC30100 - Stellar Astrophysics.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,15 +130,15 @@
   },
   "active": "e4de0ffb551255e1",
   "lastOpenFiles": [
+    "Parallax.md",
+    "Parsec.md",
+    "Angular Displacement.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Untitled.md",
+    "Angular Measurements.md",
     "PHYC30020 - Classical Mechanics and Special Relativity.md",
     "3rd Year Labs.md",
     "Crystal Binding.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "attractiveHardSphereModelDiagram.jpg",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Energy.md",
-    "Planck's Constant.md",
-    "Bohr's Model.md",
-    "Quantum Mechanics.md"
+    "PHYC30050 - Condensed Matter Physics.md"
   ]
 }
