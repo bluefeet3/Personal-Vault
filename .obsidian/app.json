@@ -1,1 +1,9 @@
-{}
+{
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "spellcheck": true,
+  "tabSize": 8,
+  "alwaysUpdateLinks": true
+}

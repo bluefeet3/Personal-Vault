@@ -7,8 +7,12 @@
         "id": "e4de0ffb551255e1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHYC30100 - Stellar Astrophysics.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYC30100 - Stellar Astrophysics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHYC30100 - Stellar Astrophysics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHYC30100 - Stellar Astrophysics.md"
+              }
             }
           }
         ]
@@ -122,6 +130,15 @@
   },
   "active": "e4de0ffb551255e1",
   "lastOpenFiles": [
-    "Personal-Vault/Untitled.md"
+    "PHYC30020 - Classical Mechanics and Special Relativity.md",
+    "3rd Year Labs.md",
+    "Crystal Binding.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "attractiveHardSphereModelDiagram.jpg",
+    "PHYC30030 - Quantum Mechanics.md",
+    "Energy.md",
+    "Planck's Constant.md",
+    "Bohr's Model.md",
+    "Quantum Mechanics.md"
   ]
 }
