@@ -2,9 +2,11 @@
 
 ![[attractiveHardSphereModelDiagram.jpg]]
 
-Leonard - Jones Potential: $F = -\frac{dU}{dr}$
+[[Leonard-Jones Potential]]: $$F = -\frac{dU}{dr}$$ $$$U(R) = 4\epsilon\left[\left(\frac{\sigma}{R}\right)^{12}-\left(\frac{\sigma}{R}\right)^6 \right]$$
+With $A = 4\epsilon\sigma^6$ and $B = 4\epsilon\sigma^{12}$
 
-### Van der Waals-London Interaction
+From:
+[[Van der Waals-London Interaction]]: $$\Delta U = -\frac{A}{R^6}$$
+and
 
-#### $\Delta U = -\frac{A}{R^6}$
-
+[[Repulsive Interaction]]: $$V_{Repulsive}(R) \approx \frac{B}{R^{12}}$$

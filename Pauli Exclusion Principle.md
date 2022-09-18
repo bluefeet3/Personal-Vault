@@ -1,0 +1,1 @@
+In essence, the PEP states that two identical particles cannot - in the same system - be in the same quantum state.
