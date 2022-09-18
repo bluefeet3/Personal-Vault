@@ -2,7 +2,7 @@
 Derive an expression for the total lattice energy of 2N ions.
 What is the importance of the Madelung constant? Calculate the cohesive energy for ionic lattices.
 
-### Labelling Electrons in atoms
+##### Labelling Electrons in atoms
 
 [[Quantum Number]]:
 According to the [[Pauli Exclusion Principle]], no two electrons can have the same four quantum numbers in the same atom.
@@ -21,3 +21,11 @@ The repulsive interactions between ions with inert gas configurations are simila
 The [[Van der Waals-London Interaction|Van der Waals]] part of the attractive interaction in ionic crystals makes a relatively small contribution to the cohesive energy in ionic crystals, of the order of 1 or 2 percent. 
 
 The **main contribution** to the binding energy of ionic crystals is electrostatic and is called the [[Madelung energy]].
+
+##### Total Lattice Energy
+
+Derived from page 24 of the notes:
+The total lattice energy of the crystal of 2N ions at their equilibrium separation $R_0$ may be written as:
+$$\Delta U_{Total} = -\frac{N\alpha q^2}{4\pi \epsilon_0 R_0} \left( 1-\frac{\rho}{R_0} \right)$$
+The definition of the Madelung constant $\alpha$ is:
+$$\alpha = \sum_{j}' \frac{(\pm)}{p_{ij}}$$
