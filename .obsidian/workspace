@@ -6,10 +6,22 @@
       {
         "id": "e4de0ffb551255e1",
         "type": "leaf",
+        "dimension": 58.85012919896641,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
+          }
+        }
+      },
+      {
+        "id": "b3495349308f6f9f",
+        "type": "leaf",
+        "dimension": 41.149870801033586,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crystal Binding.md",
+            "file": "Ionic Crystals.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crystal Binding.md",
+                "file": "Ionic Crystals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crystal Binding.md",
+                "file": "Ionic Crystals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crystal Binding.md"
+                "file": "Ionic Crystals.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4de0ffb551255e1",
+  "active": "b3495349308f6f9f",
   "lastOpenFiles": [
-    "Leonard-Jones Potential.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Van der Waals-London Interaction.md",
-    "Crystal Binding.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Repulsive Interaction.md",
+    "Madelung energy.md",
+    "Ionic Crystals.md",
+    "Quantum Number.md",
+    "The Aufbau Principle.md",
+    "IMAGES/Aufbau Principle Diagram.png",
+    "Hund’s Rule.md",
     "Pauli Exclusion Principle.md",
-    "BOOKS/Mike Guidry - Stars and Stellar Processes (2019).pdf",
-    "Angular Displacement.md",
-    "3rd Year Labs.md"
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Crystal Binding.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
   ]
 }

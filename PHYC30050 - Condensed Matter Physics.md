@@ -4,3 +4,4 @@ Also known as Solid State Physics
 ### Lecture Topics
 
 [[Crystal Binding]]
+[[Ionic Crystals]]
