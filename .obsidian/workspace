@@ -7,11 +7,9 @@
         "id": "e4de0ffb551255e1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "PHYC30100 - Stellar Astrophysics.md",
-            "mode": "source",
-            "source": false
+            "file": "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md",
+                "file": "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md",
+                "file": "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md"
+                "file": "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "e4de0ffb551255e1",
   "lastOpenFiles": [
+    "Books/[1st Edition] Mike Guidry - Stars and Stellar Processes (2019) - libgen.li.pdf",
+    "PHYC30100 - Stellar Astrophysics.md",
     "Parallax.md",
     "Parsec.md",
     "Angular Displacement.md",
-    "PHYC30100 - Stellar Astrophysics.md",
     "Untitled.md",
     "Angular Measurements.md",
     "PHYC30020 - Classical Mechanics and Special Relativity.md",
     "3rd Year Labs.md",
-    "Crystal Binding.md",
-    "PHYC30050 - Condensed Matter Physics.md"
+    "Crystal Binding.md"
   ]
 }
