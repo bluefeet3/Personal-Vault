@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crystal Structure.md",
+            "file": "Stellar Structure.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "30a2895b0b45e705",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -71,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crystal Structure.md",
+                "file": "Stellar Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crystal Structure.md",
+                "file": "Stellar Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crystal Structure.md"
+                "file": "Stellar Structure.md"
               }
             }
           }
@@ -141,15 +130,15 @@
   },
   "active": "b3495349308f6f9f",
   "lastOpenFiles": [
-    "Lattice.md",
-    "Crystal Structure.md",
-    "Basis.md",
-    "PHYC30050 - Condensed Matter Physics.md",
+    "Hydrostatic Equilibrium in a Star.md",
+    "Stellar Structure.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "HR-Diagram.md",
+    "Red Giants.md",
+    "White Dwarves.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Covalent-Metal Bonding.md",
-    "Ionic Crystals.md",
-    "Pauli Exclusion Principle.md",
-    "3D Schrödinger Equation.md",
-    "PHYC30030 - Quantum Mechanics.md"
+    "Crystal Structure.md",
+    "Lattice.md",
+    "Basis.md"
   ]
 }

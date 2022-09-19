@@ -1,0 +1,1 @@
+High luminosity, low temperature
