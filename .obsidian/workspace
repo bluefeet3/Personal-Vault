@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e4de0ffb551255e1",
-        "type": "leaf",
-        "dimension": 58.85012919896641,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
-          }
-        }
-      },
-      {
         "id": "b3495349308f6f9f",
         "type": "leaf",
-        "dimension": 41.149870801033586,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ionic Crystals.md",
+            "file": "PHYC30100 - Stellar Astrophysics.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic Crystals.md",
+                "file": "PHYC30100 - Stellar Astrophysics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ionic Crystals.md",
+                "file": "PHYC30100 - Stellar Astrophysics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ionic Crystals.md"
+                "file": "PHYC30100 - Stellar Astrophysics.md"
               }
             }
           }
@@ -142,15 +130,15 @@
   },
   "active": "b3495349308f6f9f",
   "lastOpenFiles": [
-    "Madelung energy.md",
-    "Ionic Crystals.md",
-    "Quantum Number.md",
-    "The Aufbau Principle.md",
-    "IMAGES/Aufbau Principle Diagram.png",
-    "Hund’s Rule.md",
-    "Pauli Exclusion Principle.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "PHYC30020 - Classical Mechanics and Special Relativity.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Covalent-Metal Bonding.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "2022-09-18.md",
+    "Electric Dipole Moment.md",
     "PHYC30050 - Condensed Matter Physics.md",
-    "Crystal Binding.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
+    "Ionic Crystals.md",
+    "Van der Waals-London Interaction.md"
   ]
 }
