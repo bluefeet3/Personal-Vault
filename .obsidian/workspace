@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Schrödinger Equation.md",
+            "file": "Crystal Structure.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "30a2895b0b45e705",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Schrödinger Equation.md",
+                "file": "Crystal Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Schrödinger Equation.md",
+                "file": "Crystal Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Schrödinger Equation.md"
+                "file": "Crystal Structure.md"
               }
             }
           }
@@ -130,15 +141,15 @@
   },
   "active": "b3495349308f6f9f",
   "lastOpenFiles": [
-    "PHYC30030 - Quantum Mechanics.md",
-    "PHYC30100 - Stellar Astrophysics.md",
-    "PHYC30020 - Classical Mechanics and Special Relativity.md",
-    "Covalent-Metal Bonding.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "2022-09-18.md",
-    "Electric Dipole Moment.md",
+    "Lattice.md",
+    "Crystal Structure.md",
+    "Basis.md",
     "PHYC30050 - Condensed Matter Physics.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Covalent-Metal Bonding.md",
     "Ionic Crystals.md",
-    "Van der Waals-London Interaction.md"
+    "Pauli Exclusion Principle.md",
+    "3D Schrödinger Equation.md",
+    "PHYC30030 - Quantum Mechanics.md"
   ]
 }
