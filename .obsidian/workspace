@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHYC30100 - Stellar Astrophysics.md",
+            "file": "3D Schrödinger Equation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md",
+                "file": "3D Schrödinger Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md",
+                "file": "3D Schrödinger Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md"
+                "file": "3D Schrödinger Equation.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   "active": "b3495349308f6f9f",
   "lastOpenFiles": [
     "PHYC30030 - Quantum Mechanics.md",
-    "PHYC30020 - Classical Mechanics and Special Relativity.md",
     "PHYC30100 - Stellar Astrophysics.md",
+    "PHYC30020 - Classical Mechanics and Special Relativity.md",
     "Covalent-Metal Bonding.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "2022-09-18.md",
