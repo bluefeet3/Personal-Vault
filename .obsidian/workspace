@@ -7,10 +7,20 @@
         "id": "b3495349308f6f9f",
         "type": "leaf",
         "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/QM_hydrogenAtomLectureNotes.pdf"
+          }
+        }
+      },
+      {
+        "id": "a5dae91bbee8fb9f",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Stellar Structure.md",
-            "mode": "source",
+            "file": "PHYC30030 - Quantum Mechanics.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stellar Structure.md",
+                "file": "PHYC30030 - Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stellar Structure.md",
+                "file": "PHYC30030 - Quantum Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stellar Structure.md"
+                "file": "PHYC30030 - Quantum Mechanics.md"
               }
             }
           }
@@ -128,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3495349308f6f9f",
+  "active": "a5dae91bbee8fb9f",
   "lastOpenFiles": [
-    "Hydrostatic Equilibrium in a Star.md",
+    "Spherical Harmonics.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "3D Schrödinger Equation.md",
+    "PDFS/QM_hydrogenAtomLectureNotes.pdf",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Stellar Structure.md",
+    "Hydrostatic Equilibrium in a Star.md",
     "PHYC30100 - Stellar Astrophysics.md",
     "HR-Diagram.md",
-    "Red Giants.md",
-    "White Dwarves.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Crystal Structure.md",
-    "Lattice.md",
-    "Basis.md"
+    "Red Giants.md"
   ]
 }
