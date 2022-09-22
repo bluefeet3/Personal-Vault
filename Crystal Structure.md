@@ -27,7 +27,7 @@ However, a conventional unit cell may contain more than one lattice point as sho
 ### Conventional Lattice
 There are 14 possible types of lattice in 3D space. However, we will mainly consider cubic systems.
 
-A Bravais Lattice is **invariant** under a translation.
+A [[Bravais Lattice]] is **invariant** under a translation.
 
 Three basic cubic systems:
 $\quad$- Simple Cubic

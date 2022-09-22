@@ -7,9 +7,21 @@
         "id": "2c0189ac0777d806",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "IMAGES/HRdiagaram.png"
+            "file": "Bravais Lattice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0d6a61e30f750f63",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -38,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lattice energy",
+                "query": "bravais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -75,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGES/HRdiagaram.png",
+                "file": "Bravais Lattice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGES/HRdiagaram.png",
+                "file": "Bravais Lattice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGES/HRdiagaram.png"
+                "file": "Bravais Lattice.md"
               }
             }
           }
@@ -126,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e362e1d164d7c3c",
+  "active": "2c0189ac0777d806",
   "lastOpenFiles": [
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Bravais Lattice.md",
+    "Crystal Structure.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "IMAGES/HRdiagaram.png",
     "HR-Diagram.md",
     "Stellar Structure.md",
     "Stellar Hydrostatic Equilibrium.md",
     "Hydrostatic Equilibrium Derivation (STAR).md",
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Ionic Crystals.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Covalent-Metal Bonding.md",
-    "Crystal Structure.md"
+    "PHYC30100 - Stellar Astrophysics.md"
   ]
 }

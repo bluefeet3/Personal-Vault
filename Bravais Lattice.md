@@ -1,0 +1,1 @@
+In a Bravais Lattice, *not only* the **atomic arrangement** but also the **orientations** must appear exactly the same from every lattice point.
