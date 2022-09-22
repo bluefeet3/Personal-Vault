@@ -1,20 +1,12 @@
-### Hydrostatic Equilibrium
+There are *6 main equations* which describe the stellar structure:
+
+##### [[Stellar Hydrostatic Equilibrium]]:
 Stars are **stable structures** and changes aren't observed.
-
 There is a mechanical equilibrium in stars known as Hydrostatic Equilibrium.
+$$\frac{dP}{dr} = -\frac{Gm(r)\rho(r)\,}{r^2}$$
+##### [[Local Thermodynamic Equilibrium]]:
 
-##### Assumptions:
-Stars are:
-$\quad$- Made of gas
-$\quad$- Not rotating
-$\quad$- Without magnetic fields
-$\quad$- Isolated (no binary+)
-
-Hence the only forces acting are due to gravity and pressure.
-
-The full derivation is here: [[Hydrostatic Equilibrium in a Star]].
-
-This gives us the first equation of the stellar structure.
-$$\frac{dP}{dr} = -\frac{\rho(r)\,Gm(r)}{r^2}$$
-### Mass Continuity
-$$\frac{dm}{dr} = 4\pi r^2 \rho(r)$$
+[[Radiative Energy Transport]]
+[[Stellar Nuclear Reactions]]
+[[Stellar Atmospheres and Spectral Line Formation]]
+[[Stellar Evolution]]
