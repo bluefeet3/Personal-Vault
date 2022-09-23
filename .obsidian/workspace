@@ -6,10 +6,11 @@
       {
         "id": "2c0189ac0777d806",
         "type": "leaf",
+        "dimension": 38.66120218579235,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bravais Lattice.md",
+            "file": "Defects and Structural Phase Transition.md",
             "mode": "source",
             "source": false
           }
@@ -18,6 +19,7 @@
       {
         "id": "0d6a61e30f750f63",
         "type": "leaf",
+        "dimension": 61.338797814207645,
         "state": {
           "type": "pdf",
           "state": {
@@ -67,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bravais Lattice.md",
+                "file": "Defects and Structural Phase Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bravais Lattice.md",
+                "file": "Defects and Structural Phase Transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bravais Lattice.md"
+                "file": "Defects and Structural Phase Transition.md"
               }
             }
           }
@@ -142,15 +143,15 @@
   },
   "active": "2c0189ac0777d806",
   "lastOpenFiles": [
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Bravais Lattice.md",
-    "Crystal Structure.md",
+    "Crystal Defects.md",
+    "Defects and Structural Phase Transition.md",
+    "Doping.md",
+    "IMAGES/GrainBoundaries.png",
+    "IMAGES/HR-diagram.png",
     "PHYC30050 - Condensed Matter Physics.md",
-    "IMAGES/HRdiagaram.png",
-    "HR-Diagram.md",
-    "Stellar Structure.md",
-    "Stellar Hydrostatic Equilibrium.md",
-    "Hydrostatic Equilibrium Derivation (STAR).md",
-    "PHYC30100 - Stellar Astrophysics.md"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Crystal Structure.md",
+    "Bravais Lattice.md",
+    "IMAGES/HRdiagaram.png"
   ]
 }

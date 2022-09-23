@@ -30,6 +30,9 @@ There are 14 possible types of lattice in 3D space. However, we will mainly cons
 A [[Bravais Lattice]] is **invariant** under a translation.
 
 Three basic cubic systems:
-$\quad$- Simple Cubic
-$\quad$- Body-Centred Cubic
-$\quad$- Face-Centred Cubic (Highest packing efficiency)
+$\quad$- [[Simple Cubic]]
+$\quad$- [[Body-Centred Cubic]]
+$\quad$- [[Face-Centred Cubic]] (Highest packing efficiency)
+
+The Simple Cubic Lattice is not common in nature due to its low packing efficiency.
+Iron is a common Body-Centred Cubic structure.
