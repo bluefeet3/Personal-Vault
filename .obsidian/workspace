@@ -6,20 +6,20 @@
       {
         "id": "2c0189ac0777d806",
         "type": "leaf",
-        "dimension": 38.66120218579235,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Defects and Structural Phase Transition.md",
+            "file": "Reciprocal Lattice Space.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "0d6a61e30f750f63",
+        "id": "67973f87e3dbf83a",
         "type": "leaf",
-        "dimension": 61.338797814207645,
+        "dimension": 50,
         "state": {
           "type": "pdf",
           "state": {
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defects and Structural Phase Transition.md",
+                "file": "Reciprocal Lattice Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defects and Structural Phase Transition.md",
+                "file": "Reciprocal Lattice Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defects and Structural Phase Transition.md"
+                "file": "Reciprocal Lattice Space.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "2c0189ac0777d806",
   "lastOpenFiles": [
-    "Crystal Defects.md",
-    "Defects and Structural Phase Transition.md",
-    "Doping.md",
-    "IMAGES/GrainBoundaries.png",
-    "IMAGES/HR-diagram.png",
+    "IMAGES/reciprocalLattice.png",
+    "Reciprocal Lattice Space.md",
     "PHYC30050 - Condensed Matter Physics.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Crystal Structure.md",
-    "Bravais Lattice.md",
-    "IMAGES/HRdiagaram.png"
+    "Defects and Structural Phase Transition.md",
+    "Crystal Defects.md",
+    "Endothermic Process.md",
+    "Energy.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "3D Schrödinger Equation.md"
   ]
 }
