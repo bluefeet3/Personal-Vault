@@ -6,24 +6,12 @@
       {
         "id": "2c0189ac0777d806",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reciprocal Lattice Space.md",
+            "file": "Radiative Opacity.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "67973f87e3dbf83a",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reciprocal Lattice Space.md",
+                "file": "Radiative Opacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reciprocal Lattice Space.md",
+                "file": "Radiative Opacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reciprocal Lattice Space.md"
+                "file": "Radiative Opacity.md"
               }
             }
           }
@@ -143,15 +131,15 @@
   },
   "active": "2c0189ac0777d806",
   "lastOpenFiles": [
-    "IMAGES/reciprocalLattice.png",
-    "Reciprocal Lattice Space.md",
-    "PHYC30050 - Condensed Matter Physics.md",
+    "Radiative Energy Transport.md",
+    "Stellar Structure.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Reciprocal Lattice Space.md",
+    "IMAGES/reciprocalLattice.png",
+    "PHYC30050 - Condensed Matter Physics.md",
     "Defects and Structural Phase Transition.md",
     "Crystal Defects.md",
     "Endothermic Process.md",
-    "Energy.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "3D Schrödinger Equation.md"
+    "Energy.md"
   ]
 }
