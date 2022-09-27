@@ -1,0 +1,1 @@
+The average path distance a particle/photon travels before collisions.

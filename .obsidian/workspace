@@ -7,12 +7,8 @@
         "id": "2c0189ac0777d806",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Radiative Opacity.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiative Opacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radiative Opacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Radiative Opacity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,15 +123,15 @@
   },
   "active": "2c0189ac0777d806",
   "lastOpenFiles": [
-    "Radiative Energy Transport.md",
     "Stellar Structure.md",
+    "Leonard-Jones Potential.md",
+    "Ionic Crystals.md",
+    "Radiative Energy Transport.md",
+    "Mean Free Path.md",
+    "Resonance Scattering.md",
+    "Radiative Opacity.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Reciprocal Lattice Space.md",
-    "IMAGES/reciprocalLattice.png",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Defects and Structural Phase Transition.md",
-    "Crystal Defects.md",
-    "Endothermic Process.md",
-    "Energy.md"
+    "IMAGES/reciprocalLattice.png"
   ]
 }

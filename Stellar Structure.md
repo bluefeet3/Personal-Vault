@@ -4,8 +4,6 @@ There are *6 main equations* which describe the stellar structure:
 Stars are **stable structures** and changes aren't observed.
 There is a mechanical equilibrium in stars known as Hydrostatic Equilibrium.
 $$\frac{dP}{dr} = -\frac{Gm(r)\rho(r)\,}{r^2}$$
-##### [[Local Thermodynamic Equilibrium]]:
-
 [[Radiative Energy Transport]]
 [[Stellar Nuclear Reactions]]
 [[Stellar Atmospheres and Spectral Line Formation]]
