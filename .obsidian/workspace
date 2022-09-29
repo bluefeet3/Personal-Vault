@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -123,15 +122,15 @@
   },
   "active": "2c0189ac0777d806",
   "lastOpenFiles": [
+    "Radiative Energy Transport.md",
+    "Saha Equation.md",
+    "_Tasks.md",
+    "task.md",
     "Stellar Structure.md",
     "Leonard-Jones Potential.md",
     "Ionic Crystals.md",
-    "Radiative Energy Transport.md",
     "Mean Free Path.md",
     "Resonance Scattering.md",
-    "Radiative Opacity.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Reciprocal Lattice Space.md",
-    "IMAGES/reciprocalLattice.png"
+    "Radiative Opacity.md"
   ]
 }
