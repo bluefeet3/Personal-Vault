@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0189ac0777d806",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Free Electron Fermi Gas.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "ce4c7b51bf420595",
         "type": "leaf",
         "state": {
@@ -144,8 +132,8 @@
   "active": "ce4c7b51bf420595",
   "lastOpenFiles": [
     "Free Electron Fermi Gas.md",
-    "PHYC30050 - Condensed Matter Physics.md",
     "Internship Opportunities.md",
+    "PHYC30050 - Condensed Matter Physics.md",
     "Reciprocal Lattice Space.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Radiative Energy Transport.md",
