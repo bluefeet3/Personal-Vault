@@ -7,8 +7,24 @@
         "id": "2c0189ac0777d806",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Free Electron Fermi Gas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ce4c7b51bf420595",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Internship Opportunities.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Internship Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Internship Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Internship Opportunities.md"
+              }
             }
           }
         ]
@@ -120,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c0189ac0777d806",
+  "active": "ce4c7b51bf420595",
   "lastOpenFiles": [
+    "Free Electron Fermi Gas.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Internship Opportunities.md",
+    "Reciprocal Lattice Space.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Radiative Energy Transport.md",
     "Saha Equation.md",
     "_Tasks.md",
     "task.md",
-    "Stellar Structure.md",
-    "Leonard-Jones Potential.md",
-    "Ionic Crystals.md",
-    "Mean Free Path.md",
-    "Resonance Scattering.md",
-    "Radiative Opacity.md"
+    "Stellar Structure.md"
   ]
 }
