@@ -1,0 +1,1 @@
+A valence electron is one that is in the outer shell of the atom

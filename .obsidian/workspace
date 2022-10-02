@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internship Opportunities.md",
+            "file": "Free Electron Fermi Gas.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "d95dbff1d1cf84dc",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -78,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship Opportunities.md",
+                "file": "Free Electron Fermi Gas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship Opportunities.md",
+                "file": "Free Electron Fermi Gas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship Opportunities.md"
+                "file": "Free Electron Fermi Gas.md"
               }
             }
           }
@@ -131,15 +141,15 @@
   },
   "active": "ce4c7b51bf420595",
   "lastOpenFiles": [
+    "Drude Model.md",
     "Free Electron Fermi Gas.md",
-    "Internship Opportunities.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Reciprocal Lattice Space.md",
+    "Valence Electrons.md",
+    "IMAGES/valenceElectrons.png",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Internship Opportunities.md",
+    "Reciprocal Lattice Space.md",
     "Radiative Energy Transport.md",
-    "Saha Equation.md",
-    "_Tasks.md",
-    "task.md",
-    "Stellar Structure.md"
+    "Saha Equation.md"
   ]
 }
