@@ -17,7 +17,7 @@ We can relate the real lattice to the reciprocal lattice using the [[Fourier Tra
 
 ![[reciprocalLattice.png]]
 
-### Brullioun Zones
+### Brillouin Zones
 We define the Brillouin Zone as the boundary in the reciprocal lattice *where scattering will occur*.
 
 The zone is a primitive unit cell in reciprocal space and a [[Wigner-Seitz Cell]] in real space.

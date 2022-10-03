@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4c7b51bf420595",
+        "id": "9f7d2f19724a8a14",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Free Electron Fermi Gas.md",
+            "file": "Radiative Energy Transport.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "d95dbff1d1cf84dc",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -88,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Electron Fermi Gas.md",
+                "file": "Radiative Energy Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Electron Fermi Gas.md",
+                "file": "Radiative Energy Transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Electron Fermi Gas.md"
+                "file": "Radiative Energy Transport.md"
               }
             }
           }
@@ -139,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce4c7b51bf420595",
+  "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "Drude Model.md",
-    "Free Electron Fermi Gas.md",
-    "Valence Electrons.md",
-    "IMAGES/valenceElectrons.png",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Internship Opportunities.md",
-    "Reciprocal Lattice Space.md",
     "Radiative Energy Transport.md",
-    "Saha Equation.md"
+    "Saha Equation.md",
+    "Boltzmann Equation.md",
+    "Crystal Binding.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Ionic Crystals.md",
+    "Madelung energy.md",
+    "Van der Waals-London Interaction.md",
+    "Free Electron Fermi Gas.md",
+    "Stellar Structure.md"
   ]
 }
