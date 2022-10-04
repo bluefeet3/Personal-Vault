@@ -26,6 +26,12 @@ The problem is simplified by *assuming a cylinder* => $\cos{\theta} = 1$
 The **total energy** is the energy emitted less the energy absorbed.
 The absorbed energy: $$dE_{\text{abs}} = \alpha_\nu I_\nu \, dr\, dA \, d\nu \, d\omega \, dt$$ where $\alpha_\nu$ is the absorption coefficient or [[Radiative Opacity|opacity]] at frequency $\nu$.
 
+Emission coefficient: $$[j_\nu] = [W \, m^{-3} \, Hz^{-1} sterad^{-1}]$$
+$$dE_{\text{em}} = j_\nu I_\nu \, dr\, dA \, d\nu \, d\omega \, dt$$
+
+**Total Energy:** $$dE_\nu = dI_\nu \,dA\,d\nu\,d\omega\,dt$$ where $dI_\nu = j_\nu dr - \alpha I_\nu dr$
+
+
 ##### Important Sources of Opacity in Stellar Plasma
 Electron scattering: Lots of free electrons in stellar plasma.
 
