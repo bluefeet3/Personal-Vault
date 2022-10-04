@@ -10,3 +10,5 @@ A third year module in UCD on [[Quantum Mechanics]].
 
 [[3D Schrödinger Equation]]
 [[Spherical Harmonics]]
+[[Copenhagen Interpretation of Quantum Mechanics]]
+[[Entanglement]]

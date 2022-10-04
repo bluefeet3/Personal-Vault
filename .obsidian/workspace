@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Radiative Transfer.md",
+            "file": "Entanglement.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiative Transfer.md",
+                "file": "Entanglement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radiative Transfer.md",
+                "file": "Entanglement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radiative Transfer.md"
+                "file": "Entanglement.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "Radiative Opacity.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "Copenhagen Interpretation of Quantum Mechanics.md",
     "Radiative Transfer.md",
+    "Radiative Opacity.md",
     "Radiative Energy Transport.md",
     "Saha Equation.md",
     "Boltzmann Equation.md",
     "Crystal Binding.md",
     "PHYC30050 - Condensed Matter Physics.md",
-    "Ionic Crystals.md",
-    "Madelung energy.md",
-    "Van der Waals-London Interaction.md"
+    "Ionic Crystals.md"
   ]
 }
