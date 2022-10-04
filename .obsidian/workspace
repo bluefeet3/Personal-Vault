@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Radiative Energy Transport.md",
+            "file": "Radiative Transfer.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiative Energy Transport.md",
+                "file": "Radiative Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radiative Energy Transport.md",
+                "file": "Radiative Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radiative Energy Transport.md"
+                "file": "Radiative Transfer.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
+    "Radiative Opacity.md",
+    "Radiative Transfer.md",
     "Radiative Energy Transport.md",
     "Saha Equation.md",
     "Boltzmann Equation.md",
@@ -138,8 +140,6 @@
     "PHYC30050 - Condensed Matter Physics.md",
     "Ionic Crystals.md",
     "Madelung energy.md",
-    "Van der Waals-London Interaction.md",
-    "Free Electron Fermi Gas.md",
-    "Stellar Structure.md"
+    "Van der Waals-London Interaction.md"
   ]
 }

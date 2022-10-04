@@ -46,3 +46,6 @@ $$U = g_1 + \sum_{i=2}^{\infty}g_i \exp{\left(\frac{-(E_i-E_1)}{kT}\right)}$$
 title: Notation
 To avoid confusion, notate atom ionisation using Roman Numerals ($N_{II}$), and notate energy levels using numbers ($N_1$).
 ```
+
+### [[Radiative Transfer]]
+Is defined as the propagation of radiation in a medium.
