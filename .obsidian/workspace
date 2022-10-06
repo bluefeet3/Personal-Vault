@@ -7,22 +7,8 @@
         "id": "9f7d2f19724a8a14",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bloch Theroy.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f5b768a1f43fe266",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -88,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloch Theroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloch Theroy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bloch Theroy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,15 +123,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Radiative Transfer.md",
+    "Radiative Opacity.md",
+    "Radiative Energy Transport.md",
+    "Stellar Structure.md",
+    "PHYC30100 - Stellar Astrophysics.md",
     "Bloch Theroy.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "PHYC30050 - Condensed Matter Physics.md",
     "Free Electron Fermi Gas.md",
-    "Stellar Atmospheres and Spectral Line Formation.md",
-    "Optical depth.md",
-    "Stellar Structure.md",
-    "Radiative Transfer.md",
-    "Radiative Energy Transport.md",
-    "Radiative Opacity.md"
+    "Stellar Atmospheres and Spectral Line Formation.md"
   ]
 }
