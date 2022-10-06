@@ -8,6 +8,11 @@ Opacity depends on the *chemical composition, temperature, and density* of the g
 
 $$\alpha = \kappa \rho$$ where $\rho$ is the gas density and $\kappa$ is the [[Mass Absorption Coefficient]]; $[\kappa] = [m^2 \, kg^{-1}]$
 
+##### Notes on Opacity
+The inverse of the opacity represents the [[Mean Free Path]] of the radiation in the medium.
+
+(Radiative) Opacity measures the *capability of matter to absorb or scatter* radiation.
+
 ##### There are 4 types of opacity interactions:
 [[Bound-Bound Transitions]]
 [[Bound-Free Transitions]]

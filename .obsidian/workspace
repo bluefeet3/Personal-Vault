@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entanglement.md",
+            "file": "Stellar Atmospheres and Spectral Line Formation.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entanglement.md",
+                "file": "Stellar Atmospheres and Spectral Line Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entanglement.md",
+                "file": "Stellar Atmospheres and Spectral Line Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entanglement.md"
+                "file": "Stellar Atmospheres and Spectral Line Formation.md"
               }
             }
           }
@@ -131,15 +130,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
+    "Optical depth.md",
+    "Stellar Atmospheres and Spectral Line Formation.md",
+    "Stellar Structure.md",
+    "Radiative Transfer.md",
+    "Radiative Energy Transport.md",
+    "Radiative Opacity.md",
+    "Entanglement.md",
     "PHYC30030 - Quantum Mechanics.md",
     "Copenhagen Interpretation of Quantum Mechanics.md",
-    "Radiative Transfer.md",
-    "Radiative Opacity.md",
-    "Radiative Energy Transport.md",
-    "Saha Equation.md",
-    "Boltzmann Equation.md",
-    "Crystal Binding.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Ionic Crystals.md"
+    "Saha Equation.md"
   ]
 }
