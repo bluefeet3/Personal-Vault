@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stellar Atmospheres and Spectral Line Formation.md",
+            "file": "Bloch Theroy.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "f5b768a1f43fe266",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
           }
         }
       }
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stellar Atmospheres and Spectral Line Formation.md",
+                "file": "Bloch Theroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stellar Atmospheres and Spectral Line Formation.md",
+                "file": "Bloch Theroy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stellar Atmospheres and Spectral Line Formation.md"
+                "file": "Bloch Theroy.md"
               }
             }
           }
@@ -130,15 +141,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "Optical depth.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Bloch Theroy.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Free Electron Fermi Gas.md",
     "Stellar Atmospheres and Spectral Line Formation.md",
+    "Optical depth.md",
     "Stellar Structure.md",
     "Radiative Transfer.md",
     "Radiative Energy Transport.md",
-    "Radiative Opacity.md",
-    "Entanglement.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Copenhagen Interpretation of Quantum Mechanics.md",
-    "Saha Equation.md"
+    "Radiative Opacity.md"
   ]
 }
