@@ -1,0 +1,1 @@
+$$\braket{f|f}\braket{g|g} \ge |\braket{f|g}|^2$$

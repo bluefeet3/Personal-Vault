@@ -13,3 +13,4 @@ A third year module in UCD on [[Quantum Mechanics]].
 [[Spherical Harmonics]]
 [[Copenhagen Interpretation of Quantum Mechanics]]
 [[Entanglement]]
+[[The Uncertainty Principle]]

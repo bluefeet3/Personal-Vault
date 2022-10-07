@@ -7,8 +7,12 @@
         "id": "9f7d2f19724a8a14",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Uncertainty Principle.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Uncertainty Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Uncertainty Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Uncertainty Principle.md"
+              }
             }
           }
         ]
@@ -124,15 +131,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
+    "Cauchy-Schwarz Inequality.md",
+    "The Uncertainty Principle.md",
+    "PHYC30030 - Quantum Mechanics.md",
     "Saha Equation.md",
     "Parsec.md",
     "PHYC30020 - Classical Mechanics and Special Relativity.md",
     "Boltzmann Constant.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Tight Binding Model.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Bloch Theory.md",
-    "Covalent-Metal Bonding.md",
-    "Nearly Free Electron Model.md"
+    "Bloch Theory.md"
   ]
 }
