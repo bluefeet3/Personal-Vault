@@ -1,3 +1,4 @@
+#module 
 A third year module in UCD on [[Quantum Mechanics]].
 
 *Notable Textbooks:* Griffith's Quantum Mechanics

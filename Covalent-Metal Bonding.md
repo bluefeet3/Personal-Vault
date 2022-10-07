@@ -1,3 +1,4 @@
+#concept
 *Learning Plan*
 How do covalent bonding interactions occur with regard to their wavefunctions forming bonding and anti bonding states.
 In contrast how do metallic systems interact, explain using lithium as an example referring to the kinetic and potential energy of the system and how such effects relate bonding of the lithium lattice (compared to the isolated atom). 

@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bravais",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,15 +124,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "Radiative Transfer.md",
-    "Radiative Opacity.md",
-    "Radiative Energy Transport.md",
-    "Stellar Structure.md",
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Bloch Theroy.md",
+    "Saha Equation.md",
+    "Parsec.md",
+    "PHYC30020 - Classical Mechanics and Special Relativity.md",
+    "Boltzmann Constant.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Free Electron Fermi Gas.md",
-    "Stellar Atmospheres and Spectral Line Formation.md"
+    "Tight Binding Model.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "Bloch Theory.md",
+    "Covalent-Metal Bonding.md",
+    "Nearly Free Electron Model.md"
   ]
 }

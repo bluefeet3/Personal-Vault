@@ -1,3 +1,4 @@
+#module
 Also known as Solid State Physics
 "Introduction to Solid State Physics" - Charles Kettle
 
@@ -10,4 +11,5 @@ Also known as Solid State Physics
 [[Defects and Structural Phase Transition]]
 [[Reciprocal Lattice Space]]
 [[Free Electron Fermi Gas]]
-[[Bloch Theroy]]
+[[Bloch Theory]] // [[Nearly Free Electron Model]]
+[[Tight Binding Model]]

@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:constant",
+      "color": {
+        "a": 1,
+        "rgb": 13639923
+      }
+    },
+    {
+      "query": "tag:unit",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,
@@ -23,8 +37,8 @@
   "collapse-forces": true,
   "centerStrength": 0.235714285714286,
   "repelStrength": 20,
-  "linkStrength": 0.67,
-  "linkDistance": 500,
-  "scale": 0.15894462736361548,
+  "linkStrength": 1,
+  "linkDistance": 436,
+  "scale": 0.06608797465539869,
   "close": false
 }

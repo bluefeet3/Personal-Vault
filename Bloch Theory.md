@@ -31,10 +31,25 @@ Bloch postulated that the effect of the periodic potential would modify the elec
 
 Electrons may be [[Difraction|diffracted]] or [[Scattering|scattered]] by the crystal. The electron has equal probability of scattering to the right or left and hence the **wavefunction forms a standing wave**.
 
-##### Electron Proabability Density
-Physcally, $\rho(+)$ corresponds to electrons pilling-up at the positive ions where the potential energy is lower than for the traveeling wave - this is known as **bonding**.
+##### Electron Probability Density
+Physically, $\rho(+)$ corresponds to electrons pilling-up at the positive ions where the potential energy is lower than for the traveling wave - this is known as **bonding**.
 $$\rho(+) = |\psi(+)|^2 \propto cos^2\left(\frac{\pi x}{a}\right)$$
 **Anti-Bonding** potential higher
 $$\rho(-) = |\psi(-)|^2 \propto sin^2\left(\frac{\pi x}{a}\right)$$
 ##### Band Gap
 $$E_g = \int_0^1 dx \,U(x)\left(|\psi(+)|^2 - |\psi(-)|^2\right)$$ where $U(x) = U\cos{(2\pi x / a)}$
+
+```ad-note
+title: Reduced Zone Scheme
+The diagram below displays the distribution for one atom across the lattice (Extended Zone Scheme), accounting for adjacent atoms gives the shape below for just the 1st Brillouin Zone (Reduced Zone Scheme).
+Like 2d buckets filling up.
+```
+![[reducedZoneScheme.png]]
+### Conduction
+Without an electric field, the electrons exist in the ground state.
+
+In the presence of an electric field, all electrons move. But, are scattered back toward the ground state.
+
+If the scattering of electrons is weak then there is *continuous movement through k space*. However, there is a **group velocity** within that overall movement which makes the position of the electrons oscillate.
+
+This is known as the [[Nearly Free Electron Model]]
