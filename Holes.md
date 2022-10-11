@@ -1,0 +1,1 @@
+A hole acts in applied electric and magnetic fields as if it has a positive charge $+e$.

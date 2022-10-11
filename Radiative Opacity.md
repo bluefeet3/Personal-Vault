@@ -18,3 +18,11 @@ The inverse of the opacity represents the [[Mean Free Path]] of the radiation in
 [[Bound-Free Transitions]]
 [[Free-Free Transitions]]
 [[Scattering]] of photons
+
+### How to determine Opacity?
+How to compute opacities is still a major issue in astrophysics. It requires major codes/simulations.
+
+It is very important to determine the template structure of an atmosphere because it controls how easily the energy can flow at a given wavelength.
+The opacity is determined by how the photons interact with particles.
+
+If opacity changes slowly with wavelength, it determines the stellar continuum. Sharp changes in opacity will give rise to [[Spectral Lines]].

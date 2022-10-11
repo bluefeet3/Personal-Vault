@@ -5,5 +5,7 @@
   ],
   "spellcheck": true,
   "tabSize": 8,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false
 }
