@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "412292145fc3ef34",
+            "id": "126439caea3aee6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PN-Junction.md",
+                "file": "Optical Processes and Excitations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PN-Junction.md",
+                "file": "Optical Processes and Excitations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PN-Junction.md",
+                "file": "Optical Processes and Excitations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PN-Junction.md"
+                "file": "Optical Processes and Excitations.md"
               }
             }
           }
@@ -171,9 +171,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "412292145fc3ef34",
+  "active": "126439caea3aee6a",
   "lastOpenFiles": [
     "PHYC30050 - Condensed Matter Physics.md",
+    "PN-Junction.md",
     "Semiconductor Crystals.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Ladder Operators.md",
@@ -181,7 +182,6 @@
     "Quantum Mechanics.md",
     "Acceptor States.md",
     "Donor States.md",
-    "Defects and Structural Phase Transition.md",
-    "Tight Binding Model.md"
+    "Defects and Structural Phase Transition.md"
   ]
 }

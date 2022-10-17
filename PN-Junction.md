@@ -31,4 +31,5 @@ $$I = I_0 \left( \exp{\left(\frac{qV}{nkT}\right)} - 1 \right)$$ where $I_0$ is 
 
 In general, $n$ is a fitting parameter that allows for measured departure of diode IV characteristics from the ideal Shockley equation.
 
-##
+## Depletion-Layer Width
+PN-junctions are usually highly asymmetrical in doping concentration.
