@@ -7,4 +7,5 @@ $$\frac{dP}{dr} = -\frac{Gm(r)\rho(r)\,}{r^2}$$
 [[Radiative Energy Transport]]
 [[Stellar Nuclear Reactions]]
 [[Stellar Atmospheres and Spectral Line Formation]]
+[[Temperature Gradient]]
 [[Stellar Evolution]]

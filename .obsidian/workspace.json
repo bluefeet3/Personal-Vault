@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a36a79613bf0dab",
+        "id": "1b5cd7820b95c5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7d2f19724a8a14",
+            "id": "fab48d707470c80e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYC30050 - Condensed Matter Physics.md",
+                "file": "Stellar Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "126439caea3aee6a",
+            "id": "640786f95b6da7ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optical Processes and Excitations.md",
+                "file": "Temperature Gradient.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,22 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d7d8dc070a1db337",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f2c4414a7826729",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optical Processes and Excitations.md",
+                "file": "Temperature Gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optical Processes and Excitations.md",
+                "file": "Temperature Gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optical Processes and Excitations.md"
+                "file": "Temperature Gradient.md"
               }
             }
           }
@@ -171,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "126439caea3aee6a",
+  "active": "640786f95b6da7ba",
   "lastOpenFiles": [
+    "Stellar Structure.md",
+    "Stellar Nuclear Reactions.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Optical Processes and Excitations.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "PHYC30050 - Condensed Matter Physics.md",
     "PN-Junction.md",
     "Semiconductor Crystals.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Ladder Operators.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Quantum Mechanics.md",
-    "Acceptor States.md",
-    "Donor States.md",
-    "Defects and Structural Phase Transition.md"
+    "PHYC30030 - Quantum Mechanics.md"
   ]
 }
