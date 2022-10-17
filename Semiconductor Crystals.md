@@ -46,3 +46,13 @@ title: Conventionally
 ```
 
 ### Fermi Distribution in Extrinsic Semiconductors
+
+
+### Mobility
+The mobility is the magnitude of the drift velocity of a charge carrier per unit electric field.$$\mu = \frac{|v|}{E}$$
+The electrical conductivity is the sum of the electron and hole contributions: $$\sigma = (ne\mu_e + pe\mu_h)$$ where n and p are the concentrations of electrons and holes.
+
+## Temperature
+Ionised impurity scattering: $$\mu_i \propto T^\frac{3}{2}$$
+Acoustic phonon scattering:
+
