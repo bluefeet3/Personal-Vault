@@ -6,7 +6,6 @@
       {
         "id": "0a36a79613bf0dab",
         "type": "tabs",
-        "dimension": 47.7326968973747,
         "children": [
           {
             "id": "9f7d2f19724a8a14",
@@ -14,27 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semiconductor Crystals.md",
+                "file": "Ladder Operators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "77f4c84d708609e3",
-        "type": "tabs",
-        "dimension": 52.2673031026253,
-        "children": [
-          {
-            "id": "fdf3be35d153e464",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
               }
             }
           }
@@ -105,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Crystals.md",
+                "file": "Ladder Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Crystals.md",
+                "file": "Ladder Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Crystals.md"
+                "file": "Ladder Operators.md"
               }
             }
           }
@@ -161,15 +143,15 @@
   },
   "active": "9f7d2f19724a8a14",
   "lastOpenFiles": [
-    "Acceptor States.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "Quantum Mechanics.md",
     "Semiconductor Crystals.md",
-    "Donor States.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Acceptor States.md",
+    "Donor States.md",
     "PHYC30050 - Condensed Matter Physics.md",
     "Defects and Structural Phase Transition.md",
     "Tight Binding Model.md",
-    "Stellar Atmospheres and Spectral Line Formation.md",
-    "Stellar Interior.md",
-    "Radiative Energy Transport.md"
+    "Stellar Atmospheres and Spectral Line Formation.md"
   ]
 }
