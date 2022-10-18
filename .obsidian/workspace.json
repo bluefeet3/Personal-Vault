@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "640786f95b6da7ba",
+            "id": "2ece27f795011d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temperature Gradient.md",
+                "file": "Stellar Temperature Gradient.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temperature Gradient.md",
+                "file": "Stellar Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temperature Gradient.md",
+                "file": "Stellar Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temperature Gradient.md"
+                "file": "Stellar Structure.md"
               }
             }
           }
@@ -155,8 +154,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "640786f95b6da7ba",
+  "active": "fab48d707470c80e",
   "lastOpenFiles": [
+    "Stellar Temperature Gradient.md",
     "Stellar Structure.md",
     "Stellar Nuclear Reactions.md",
     "PHYC30100 - Stellar Astrophysics.md",
@@ -165,7 +165,6 @@
     "PHYC30050 - Condensed Matter Physics.md",
     "PN-Junction.md",
     "Semiconductor Crystals.md",
-    "Ladder Operators.md",
-    "PHYC30030 - Quantum Mechanics.md"
+    "Ladder Operators.md"
   ]
 }
