@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5cd7820b95c5bc",
+        "id": "01cf70771094b2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fab48d707470c80e",
+            "id": "3a97dda607dcbe91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stellar Structure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ece27f795011d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stellar Temperature Gradient.md",
+                "file": "Ladder Operators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stellar Structure.md",
+                "file": "Ladder Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stellar Structure.md",
+                "file": "Ladder Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stellar Structure.md"
+                "file": "Ladder Operators.md"
               }
             }
           }
@@ -154,8 +141,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fab48d707470c80e",
+  "active": "3a97dda607dcbe91",
   "lastOpenFiles": [
+    "PHYC30030 - Quantum Mechanics.md",
+    "Copenhagen Interpretation of Quantum Mechanics.md",
     "Stellar Temperature Gradient.md",
     "Stellar Structure.md",
     "Stellar Nuclear Reactions.md",
@@ -163,8 +152,6 @@
     "Optical Processes and Excitations.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "PHYC30050 - Condensed Matter Physics.md",
-    "PN-Junction.md",
-    "Semiconductor Crystals.md",
-    "Ladder Operators.md"
+    "PN-Junction.md"
   ]
 }
