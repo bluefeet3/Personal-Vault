@@ -11,12 +11,9 @@
             "id": "3a97dda607dcbe91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ladder Operators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban/Assignment Tracker.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ladder Operators.md",
+                "file": "Kanban/Assignment Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ladder Operators.md",
+                "file": "Kanban/Assignment Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ladder Operators.md"
+                "file": "Kanban/Assignment Tracker.md"
               }
             }
           }
@@ -143,6 +140,7 @@
   },
   "active": "3a97dda607dcbe91",
   "lastOpenFiles": [
+    "Ladder Operators.md",
     "PHYC30030 - Quantum Mechanics.md",
     "Copenhagen Interpretation of Quantum Mechanics.md",
     "Stellar Temperature Gradient.md",
@@ -151,7 +149,6 @@
     "PHYC30100 - Stellar Astrophysics.md",
     "Optical Processes and Excitations.md",
     "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "PN-Junction.md"
+    "PHYC30050 - Condensed Matter Physics.md"
   ]
 }
