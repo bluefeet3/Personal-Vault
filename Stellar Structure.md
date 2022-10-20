@@ -31,5 +31,3 @@ At very high densities ($\gt 10^7 \,\text{kg m}^{-3}$) the perfect gas law is in
 We then say that the matter is **degenerate**.
 ```
 ### What is the pressure for a degenerate gas?
-
-[[Stellar Evolution]]

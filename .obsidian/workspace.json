@@ -11,13 +11,30 @@
             "id": "3a97dda607dcbe91",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Assignment Tracker.md"
+                "file": "PHYC30100 - Stellar Astrophysics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0d89bc857e220e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Evolution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Assignment Tracker.md",
+                "file": "Stellar Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Assignment Tracker.md",
+                "file": "Stellar Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Assignment Tracker.md"
+                "file": "Stellar Evolution.md"
               }
             }
           }
@@ -138,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a97dda607dcbe91",
+  "active": "d0d89bc857e220e5",
   "lastOpenFiles": [
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Stellar Structure.md",
+    "Kanban/Assignment Tracker.md",
     "Ladder Operators.md",
     "PHYC30030 - Quantum Mechanics.md",
     "Copenhagen Interpretation of Quantum Mechanics.md",
     "Stellar Temperature Gradient.md",
-    "Stellar Structure.md",
     "Stellar Nuclear Reactions.md",
-    "PHYC30100 - Stellar Astrophysics.md",
     "Optical Processes and Excitations.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
   ]
 }

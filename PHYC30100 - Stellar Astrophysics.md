@@ -9,3 +9,4 @@ $\quad$ - [[Mike Guidry - Stars and Stellar Processes (2019).pdf]] - M. Guidry
 [[Parallax]]
 [[HR-Diagram]]
 [[Stellar Structure]]
+[[Stellar Evolution]]
