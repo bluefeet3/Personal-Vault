@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "01cf70771094b2d4",
+        "id": "9498782da8a20a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a97dda607dcbe91",
+            "id": "123d4b82c1268dd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYC30100 - Stellar Astrophysics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d89bc857e220e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stellar Evolution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stellar Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stellar Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stellar Evolution.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,17 +131,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d0d89bc857e220e5",
+  "active": "3e362e1d164d7c3c",
   "lastOpenFiles": [
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Stellar Structure.md",
-    "Kanban/Assignment Tracker.md",
-    "Ladder Operators.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Copenhagen Interpretation of Quantum Mechanics.md",
-    "Stellar Temperature Gradient.md",
-    "Stellar Nuclear Reactions.md",
-    "Optical Processes and Excitations.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
+    "Direct and Indirection Absorption.md",
+    "Excalidraw/directtransitions.excalidraw.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Ionic Crystals.md",
+    "Crystal Binding.md",
+    "Radiative Opacity.md",
+    "Mean Free Path.md",
+    "Radiative Energy Transport.md",
+    "Phonon.md",
+    "Optical Processes and Excitations.md"
   ]
 }
