@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9498782da8a20a3a",
+        "id": "6c9467230e9d5212",
         "type": "tabs",
         "children": [
           {
-            "id": "123d4b82c1268dd7",
+            "id": "764c38b8b3bf91f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "PHYC30050 - Condensed Matter Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bbb024ccf9f0720",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa5487a4984a0751",
@@ -131,17 +146,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3e362e1d164d7c3c",
+  "active": "3bbb024ccf9f0720",
   "lastOpenFiles": [
-    "Direct and Indirection Absorption.md",
-    "Excalidraw/directtransitions.excalidraw.md",
+    "Direct and Indirect Absorption.md",
+    "Exciton.md",
+    "Radiative Recombination.md",
     "PHYC30050 - Condensed Matter Physics.md",
-    "Ionic Crystals.md",
-    "Crystal Binding.md",
-    "Radiative Opacity.md",
-    "Mean Free Path.md",
-    "Radiative Energy Transport.md",
-    "Phonon.md",
-    "Optical Processes and Excitations.md"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Kanban/Assignment Tracker.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "QM Angular Momentum.md",
+    "The Uncertainty Principle.md",
+    "Excalidraw/directtransitions.excalidraw.md"
   ]
 }

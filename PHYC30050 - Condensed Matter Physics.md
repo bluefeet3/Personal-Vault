@@ -16,4 +16,5 @@ Also known as Solid State Physics
 [[Semiconductor Crystals]]
 [[PN-Junction]]
 [[Optical Processes and Excitations]]
-[[Direct and Indirection Absorption]]
+[[Direct and Indirect Absorption]]
+[[Radiative Recombination]]

@@ -6,19 +6,21 @@ kanban-plugin: basic
 
 ## Assigned
 
-- [ ] Classical Mechanics A2
+- [ ] Condensed Matter Physics A3
+- [ ] Quantum Mechanics A3
 
 
 ## In Progress
 
-- [ ] Stellar Astrophysics A1
-- [ ] Quantum Mechanics A2
-- [ ] CCD Lab Report
+- [ ] Classical Mechanics A2
 
 
 ## Finished
 
 **Complete**
+- [x] Quantum Mechanics A2
+- [x] Stellar Astrophysics A1
+- [x] CCD Lab Report
 
 
 

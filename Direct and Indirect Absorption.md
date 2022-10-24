@@ -23,3 +23,29 @@ $$E_f = E_i + \hbar\omega \pm \hbar \Omega$$
 title: Phonon Temperature Dependence
 As temperature decreases, the phonon count decreases gradually. At very low temperature, no phonons exist with enough energy.
 ```
+
+# Urbach Tail
+The Urbach tail is a deviation from the expected sharp increase from the theory. This arises due to disorder in the crystal.
+
+## The [[Exciton]]
+![[Exciton]]
+### Change in the binding energy
+In direct inter-band absorption of a photon, the band gap decreases by the binding energy.
+
+All excitons are **unstable** with respect to the recombination process. In this process, the electron drops into the hole in the valence band, accompanied by the emission of a photon or phonon.
+
+### Exciton Types
+There are two types of excitons:
+
+#### Wannier (Mott) Exciton
+Extends over many unit cells.
+
+Binding energy $\approx 10 \,\text{meV}$
+Radius $\approx 100 \,\text{Angstroms}$
+
+
+#### Frenkel Exciton
+Localised to a few unit cells and hence, delocalised in k-space.
+
+Binding Energy $\approx 1 \,\text{eV}$
+Radius $\approx 10 \,\text{Angstroms}$
