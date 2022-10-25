@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Condensed Matter Physics A3
 - [ ] Quantum Mechanics A3
+- [ ] Classical Mechanics A3
 
 
 ## In Progress

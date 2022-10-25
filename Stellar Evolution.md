@@ -32,8 +32,21 @@ Mostly comprised of 90% hydrogen and 9% helium with some other dusts (silicates 
 
 Very cold and dense. (10 to 50 K and $10^8$ to $10^{15}$ molecules per $m^3$).
 
+A combination of the action of gravity and the conservation of angular momentum spin them inwards to form a denser spherical centre called [[Protostar]].
 
+### Gravitational Collapse
+The condensation of gas clouds into stars takes place in several stages. First the gas clod contracts. When it gets dense enough, smaller sections will be able to contract independently.
+
+The could will fragment into many parts, each with a mass comparable to the solar mass which condense to form a cluster of low-mass protostars.
+
+[[Virial Theorem]] describes the pressure needed to support a self gravitating body.
 
 # The Main Sequence
+#### Mass Limits 
+Stars greater than $200\,\text{M}_\odot$ and less than $0.08 \,\text{M}_\odot$.
+
+Stars on the upper end of the [[HR-Diagram]] burn through the CNO cycle, whereas stars on the lower end burn through the PP Chain.
+
+
 
 # Evolution after the Main Sequence

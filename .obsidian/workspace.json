@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYC30050 - Condensed Matter Physics.md",
+                "file": "Stellar Evolution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3bbb024ccf9f0720",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stellar Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stellar Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stellar Evolution.md"
+              }
             }
           }
         ]
@@ -146,17 +141,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3bbb024ccf9f0720",
+  "active": "764c38b8b3bf91f3",
   "lastOpenFiles": [
-    "Direct and Indirect Absorption.md",
-    "Exciton.md",
-    "Radiative Recombination.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "Kanban/Assignment Tracker.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "QM Angular Momentum.md",
-    "The Uncertainty Principle.md",
-    "Excalidraw/directtransitions.excalidraw.md"
+    "Stellar Evolution.md",
+    "Astro is Cursed - Welcome to my TedTalk.md",
+    "Direct and Indirect Absorption.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Radiative Recombination.md",
+    "Virial Theorem.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Exciton.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
   ]
 }
