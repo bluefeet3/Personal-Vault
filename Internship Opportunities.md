@@ -15,23 +15,102 @@ $\quad$- A transcript of grades
 $\quad$- A CV
 $\quad$- The details of someone who can provide a reference letter
 
-# ESA
-Opportunities are published in November and are open for one month.
+# ESO - European Southern Observatory
+http://eso.org/sci/meetings/2019/summerresearch.html
+Other ESO opportunities: https://recruitment.eso.org/
 
-To apply, you first have to register and create your candidate profile with your CV and motivation letter.
+"We will consider students taking any astronomy, physical science, computer science or maths degree subjects. However, we expect the students to have some knowledge of physics, programming, data analysis techniques and, preferably, astronomy."
 
-# Rise Germany - DAAD
-861 euro a month
-Minimum 10 weeks
-The internship database is open between November 1 to December 15, 2022.
+**Location**: Munich
 
-# Space astronomy Summer Program - STScI
-720$ per week
-travel and accomodation not included
+**Duration**: 4th July - 12th August
 
-# UCD Internships
+**Application**: 4th Feb 2022
+# Max Planck Institute
+http://www.mpia.de/en/careers/internships/summer
 
-# DIAS
+**Stipend**: 820€ / month
+**Duration**: Between May and September
+Contact: [internship@mpia.de](mailto:internship@mpia.de)
+**Application**: Opens in December
+- Application Form
+- CV
+- Transcript of Grades
+- Letter of reference
+# ASTRON Summer Research Programme
+https://www.astron.nl/education/summer-research-programme/
+
+**Stipend**: Modest
+Travel paid for
+
+**Duration**: 10 to 12 weeks
+
+**Application**: Closed end of January 2022
+- Application form
+- Two references
+# RISE Germany - DAAD
+https://www.daad.de/rise/en/rise-germany/
+
+Stipend: 861 euro a month
+Duration: Minimum 10 weeks
+
+Application: Between November 1 to December 15, 2022.
+
+# CERN
+Well yeah its cern
+https://careers.cern/students
+# STScI - Baltimore
+https://www.stsci.edu/opportunities/space-astronomy-summer-program/
+Stipend: 720$ per week
+(Travel and accommodation not included)
+
+Location: Baltimore
+
+Duration: In 2022 it was 6th June to 5th August
+VISA needed
+
+Application: Opens from 1st January
+
+Contact: saspinfo@stsci.edu
+
+# TAPS - Torun Students Summer Program
+In Poland - Nicolaus Copernicus University (ranked 800th in the world in Physics)
+https://tssp.umk.pl/exsci/topics.html
+
+**Stipend**: Daily allowance of 50 PLN (12 euro)
+Housing in Torun included
+
+**Application** stars April 19th:
+- Application form
+- CV
+- Motivation Letter
+- Titles of projects you want to work on
+- Letter of recommendation
+
+For any questions email taps@umk.pl
+
+# ASPIRE
+https://aspire.science.uva.nl/
+Astrophysics Summer Program for International Research Experience
+
+Online??? or just because of covid?
+The projects look amazing, but might just be for post masters students
+
+**Stipend**: Moderate
+Includes, flights and accommodation
+
+**Location**: University Amsterdam, Anton Pannekoek Institute
+**Duration**: 8 weeks, 20th June -> 19th August (In 2022)
+
+**Application**: Closes in May
+- CV
+- List of Physics/Astro degree courses taken
+- Motivation Letter (1500 words)
+- Reference Letter
+
+# SRON, sorta unclear?
+https://www.sron.nl/about/vacancies
+# DIAS - Dublin Institute for Advanced Studies
 Two months starting June
 €3,000 total
 The application should consist of:
@@ -42,5 +121,4 @@ iv) the application and letter should be uploaded as pdf files (please do not us
 
 The closing date for applications is 23:59 on Sunday April 24th. Successful candidates will be notified by email.
 
-# TAPS
-https://tssp.umk.pl/exsci/topics.html
+# UCD Internships
