@@ -31,14 +31,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 2.179,
   "lineSizeMultiplier": 5,
   "collapse-forces": true,
-  "centerStrength": 0.2875,
+  "centerStrength": 0.463690476190476,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 436,
-  "scale": 0.255310541888535,
+  "scale": 0.18758437913818546,
   "close": false
 }

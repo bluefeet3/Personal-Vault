@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "764c38b8b3bf91f3",
+            "id": "4becf90c06ff8264",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stellar Evolution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stellar Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stellar Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stellar Evolution.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,20 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "764c38b8b3bf91f3",
+  "active": "4becf90c06ff8264",
   "lastOpenFiles": [
-    "Kanban/Assignment Tracker.md",
-    "Stellar Evolution.md",
-    "Astro is Cursed - Welcome to my TedTalk.md",
-    "Direct and Indirect Absorption.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Radiative Recombination.md",
-    "Virial Theorem.md",
+    "Career's and Graduate Study Talk 02-11-22.md",
     "PHYC30100 - Stellar Astrophysics.md",
-    "Exciton.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Kanban/Assignment Tracker.md",
+    "Astro is Cursed - Welcome to my TedTalk.md",
+    "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf",
+    "PN-Junction.md",
+    "Free Electron Fermi Gas.md",
+    "Stellar Evolution.md",
+    "Direct and Indirect Absorption.md"
   ]
 }
