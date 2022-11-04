@@ -18,4 +18,4 @@ Also known as Solid State Physics
 [[Optical Processes and Excitations]]
 [[Direct and Indirect Absorption]]
 [[Radiative Recombination]]
-[[Thermal Properties]]
+[[Heat Capacity]]
