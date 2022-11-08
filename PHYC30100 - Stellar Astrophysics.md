@@ -10,3 +10,6 @@ $\quad$ - [[Mike Guidry - Stars and Stellar Processes (2019).pdf]] - M. Guidry
 [[HR-Diagram]]
 [[Stellar Structure]]
 [[Stellar Evolution]]
+[[Telescopes]]
+[[Radio Telescopes]]
+[[ESO - European Southern Observatory]]

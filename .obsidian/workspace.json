@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c9467230e9d5212",
+        "id": "55c10bae7d62e704",
         "type": "tabs",
-        "dimension": 49.18957011980268,
         "children": [
           {
-            "id": "4becf90c06ff8264",
+            "id": "a6b2c5ee52b07088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYC30050 - Condensed Matter Physics.md",
+                "file": "Spin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0da0d4688d933b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heat Capacity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9553e15f9dc33921",
-        "type": "tabs",
-        "dimension": 50.810429880197326,
-        "children": [
-          {
-            "id": "f4d2cf72ecca14da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
               }
             }
           }
@@ -119,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heat Capacity.md",
+                "file": "Spin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heat Capacity.md",
+                "file": "Spin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heat Capacity.md"
+                "file": "Spin.md"
               }
             }
           }
@@ -170,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0da0d4688d933b65",
+  "active": "a6b2c5ee52b07088",
   "lastOpenFiles": [
-    "Phonon Energy.md",
-    "Heat Capacity.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Career's and Graduate Study Talk 02-11-22.md",
+    "PHYC30030 - Quantum Mechanics.md",
+    "QM Angular Momentum.md",
+    "Spin.md",
+    "Matrices in Markdown.md",
     "PHYC30100 - Stellar Astrophysics.md",
-    "Kanban/Assignment Tracker.md",
-    "Astro is Cursed - Welcome to my TedTalk.md",
-    "Books/Mike Guidry - Stars and Stellar Processes (2019).pdf",
-    "PN-Junction.md"
+    "Radio Telescopes.md",
+    "ESO - European Southern Observatory.md",
+    "Telescopes.md",
+    "Exciton.md",
+    "Quantum Mechanics.md"
   ]
 }
