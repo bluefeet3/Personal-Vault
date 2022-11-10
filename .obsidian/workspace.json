@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55c10bae7d62e704",
+        "id": "91fe099c2b6a0e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b2c5ee52b07088",
+            "id": "79ee7ce445d9a42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin.md",
+                "file": "Radio Telescopes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin.md",
+                "file": "Radio Telescopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin.md",
+                "file": "Radio Telescopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin.md"
+                "file": "Radio Telescopes.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6b2c5ee52b07088",
+  "active": "79ee7ce445d9a42a",
   "lastOpenFiles": [
-    "PHYC30030 - Quantum Mechanics.md",
-    "QM Angular Momentum.md",
-    "Spin.md",
-    "Matrices in Markdown.md",
     "PHYC30100 - Stellar Astrophysics.md",
+    "Telescopes.md",
+    "Angular Resolution.md",
+    "Mike Guidry - Stars and Stellar Processes (2019).pdf.md",
+    "Interferometry in Telescopes.md",
     "Radio Telescopes.md",
     "ESO - European Southern Observatory.md",
-    "Telescopes.md",
-    "Exciton.md",
-    "Quantum Mechanics.md"
+    "Astro is Cursed - Welcome to my TedTalk.md",
+    "Kanban/Assignment Tracker.md",
+    "Excalidraw/Drawing 2022-11-08 16.27.19.excalidraw.md"
   ]
 }

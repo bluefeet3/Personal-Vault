@@ -1,0 +1,1 @@
+The theoretical resolution of a [[Telescopes|telescope]] is often given in the form introduced by [[Lord Rayleigh]]:$$\frac{\Theta}{rad} = 1.22 \frac{\lambda}{D}$$
