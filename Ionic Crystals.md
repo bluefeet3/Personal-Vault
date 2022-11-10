@@ -8,7 +8,7 @@ What is the importance of the Madelung constant? Calculate the cohesive energy f
 According to the [[Pauli Exclusion Principle]], no two electrons can have the same four quantum numbers in the same atom.
 
 'Filing' orbitals in the same energy level with one electron each before pairing up any electrons. 
-This is known as [[Hund’s Rule]].
+This is known as [[Hund’s Rules]].
 
 **What order do I fill the levels in?** [[The Aufbau Principle]] states that when predicting an atoms ground state electron configuration, electrons will occupy the lowest energy orbital available first.
 

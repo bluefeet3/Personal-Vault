@@ -1,0 +1,1 @@
+$$\chi = \frac{\partial M}{\partial B}$$

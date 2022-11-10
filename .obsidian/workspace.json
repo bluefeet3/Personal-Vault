@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "PHYC30050 - Condensed Matter Physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "14108c96975368eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hund’s Rules.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1c03f420c42b3792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "114c47bd967cfd85",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
               }
             }
           }
@@ -87,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "Hund’s Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "Hund’s Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio Telescopes.md"
+                "file": "Hund’s Rules.md"
               }
             }
           }
@@ -138,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79ee7ce445d9a42a",
+  "active": "14108c96975368eb",
   "lastOpenFiles": [
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Telescopes.md",
-    "Angular Resolution.md",
-    "Mike Guidry - Stars and Stellar Processes (2019).pdf.md",
-    "Interferometry in Telescopes.md",
-    "Radio Telescopes.md",
-    "ESO - European Southern Observatory.md",
-    "Astro is Cursed - Welcome to my TedTalk.md",
-    "Kanban/Assignment Tracker.md",
-    "Excalidraw/Drawing 2022-11-08 16.27.19.excalidraw.md"
+    "Paramagnetism.md",
+    "Magnetism.md",
+    "Diamagnetism.md",
+    "Langevin Equation.md",
+    "Magnetic Susceptibility.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Heat Capacity.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Stellar Structure.md",
+    "Radio Telescopes.md"
   ]
 }

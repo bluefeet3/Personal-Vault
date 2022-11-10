@@ -19,3 +19,4 @@ Also known as Solid State Physics
 [[Direct and Indirect Absorption]]
 [[Radiative Recombination]]
 [[Heat Capacity]]
+[[Magnetism]]
