@@ -13,40 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYC30050 - Condensed Matter Physics.md",
+                "file": "Internship Opportunities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "14108c96975368eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hund’s Rules.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1c03f420c42b3792",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "114c47bd967cfd85",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
               }
             }
           }
@@ -117,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hund’s Rules.md",
+                "file": "Internship Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hund’s Rules.md",
+                "file": "Internship Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hund’s Rules.md"
+                "file": "Internship Opportunities.md"
               }
             }
           }
@@ -168,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14108c96975368eb",
+  "active": "79ee7ce445d9a42a",
   "lastOpenFiles": [
+    "rise_GRAND.pdf",
+    "Internship Opportunities.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Hund’s Rules.md",
     "Paramagnetism.md",
     "Magnetism.md",
     "Diamagnetism.md",
     "Langevin Equation.md",
     "Magnetic Susceptibility.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Heat Capacity.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Stellar Structure.md",
-    "Radio Telescopes.md"
+    "Heat Capacity.md"
   ]
 }

@@ -1,5 +1,10 @@
 https://astrophysicsgirl.com/internships/europe/
 
+Who to get references from:
+- Morgan Faser
+- Rebecca Garcia Lopez
+- Robert Jeffery?
+
 # LEAPS
 The Leiden/ESA Astrophysics Program for Summer Students (LEAPS)
 
@@ -55,6 +60,24 @@ Stipend: 861 euro a month
 Duration: Minimum 10 weeks
 
 Application: Between November 1 to December 15, 2022.
+- Apply for up to 3 projects
+- Motivation letter for each project
+- List of courses that you will have completed
+- Uni transcript
+- certificate of enrolment
+- Reference Letter
+
+## Projects
+### GRAND Detection of High-Energy Astrophysical Particles
+Giant Radio Array for Neutrino Detection
+
+[[rise_GRAND.pdf]]
+
+Detecting
+
+### Studying Gravitational Wave and Neutrino Data
+[[rise_gravWaves.pdf]]
+
 
 # CERN
 Well yeah its cern
