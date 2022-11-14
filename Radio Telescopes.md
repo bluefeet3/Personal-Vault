@@ -33,3 +33,7 @@ John Quinn and his students work with LOFAR at UCD
 The most common antenna type is a parabolic reflector. 
 
 At long wavelengths the reflecting surface does not need to be solid. However, at short wavelengths the surface must be smooth. Surface irregularities should be less than one tenth of the wavelength measured.
+
+### Interferometry
+Interferometry is a technique in radio astronomy to increase angular resolution, it is possible but more difficult in smaller wavelengths.
+

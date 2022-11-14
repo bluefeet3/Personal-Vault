@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship Opportunities.md",
+                "file": "Radio Telescopes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship Opportunities.md",
+                "file": "Radio Telescopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship Opportunities.md",
+                "file": "Radio Telescopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship Opportunities.md"
+                "file": "Radio Telescopes.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "79ee7ce445d9a42a",
   "lastOpenFiles": [
-    "rise_GRAND.pdf",
-    "Internship Opportunities.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Hund’s Rules.md",
-    "Paramagnetism.md",
+    "PHYC30100 - Stellar Astrophysics.md",
+    "Telescopes.md",
+    "Interferometry in Telescopes.md",
+    "Ferromagnetism.md",
     "Magnetism.md",
-    "Diamagnetism.md",
-    "Langevin Equation.md",
-    "Magnetic Susceptibility.md",
-    "Heat Capacity.md"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Internship Opportunities.md",
+    "rise_GRAND.pdf",
+    "Hund’s Rules.md"
   ]
 }

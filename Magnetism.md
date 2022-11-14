@@ -13,3 +13,4 @@ Note that M being proportional to B, the external field, is an assumption. This 
 [[Paramagnetism]] -> Some organisation in the presence of an external field
 
 [[Ferromagnetism]] -> Always organised
+
