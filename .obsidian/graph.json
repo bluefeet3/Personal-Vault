@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#equation",
+      "color": {
+        "a": 1,
+        "rgb": 10019525
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 113,
-  "scale": 0.5715556089022433,
+  "scale": 0.08679810519394528,
   "close": false
 }

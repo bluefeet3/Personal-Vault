@@ -1,3 +1,4 @@
+#equation 
 The atomic [[Energy Levels]] of a given ion are populated inversely exponentially as a function of their energy. That is, lower energy levels are naturally more populated than higher energy levels.
 
 The population number $n_i$ of an energy state $i =$ number of atoms per unit volume.

@@ -1,3 +1,4 @@
+#equation 
 $$\frac{dT}{dr} = -C \frac{\kappa \rho}{T^3} \frac{L_r}{4\pi r^2}$$ where $\kappa$ is the [[Mass Absorption Coefficient]], $\rho$ is density and C is a constant
 
 The rate of change of temperature with respect to radius is negative, because the *temperature increases inwards.*

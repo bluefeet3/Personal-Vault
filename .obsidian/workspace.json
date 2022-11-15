@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91fe099c2b6a0e2a",
+        "id": "254441e201ff2800",
         "type": "tabs",
         "children": [
           {
-            "id": "79ee7ce445d9a42a",
+            "id": "0d2d6fa47c78bbd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "Astro is Cursed - Welcome to my TedTalk.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "Astro is Cursed - Welcome to my TedTalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio Telescopes.md",
+                "file": "Astro is Cursed - Welcome to my TedTalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio Telescopes.md"
+                "file": "Astro is Cursed - Welcome to my TedTalk.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79ee7ce445d9a42a",
+  "active": "0d2d6fa47c78bbd0",
   "lastOpenFiles": [
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Telescopes.md",
-    "Interferometry in Telescopes.md",
-    "Ferromagnetism.md",
-    "Magnetism.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Internship Opportunities.md",
-    "rise_GRAND.pdf",
-    "Hund’s Rules.md"
+    "Mean Free Path.md",
+    "Cauchy-Schwarz Inequality.md",
+    "3rd Year Labs.md",
+    "Van der Waals-London Interaction.md",
+    "Stellar Temperature Gradient.md",
+    "Boltzmann Equation.md",
+    "3D Schrödinger Equation.md",
+    "Langevin Equation.md",
+    "Saha Equation.md",
+    "Cherenkov Radiation.md"
   ]
 }
