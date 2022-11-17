@@ -5,7 +5,7 @@ Show an expression for the Law of mass action (carrier concentration) and that t
 Calculate carrier concentrations and occupancy probabilities.
 
 ### Band Gap
-[[Semiconductor]]s are intermediate band gap materials which may conduct due to [[Thermal Excitation]] of electrons.
+Semiconductors are intermediate [[Band Gap]] materials which may conduct due to [[Thermal Excitation]] of electrons.
 ![[Pasted image 20221010121434.png|400]]
 
 As the number of conduction electrons increases with temperature, the **resistance decreases** with increasing temperature (unlike metals).

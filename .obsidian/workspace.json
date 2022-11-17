@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0956901cf7144b6b",
+        "id": "e01e98ed56c717b8",
         "type": "tabs",
         "children": [
           {
@@ -13,11 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy Levels.md",
+                "file": "Detectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ee23d0072501377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0010ae06fcdf51e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Energy Levels.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c253e2943913877e",
+  "active": "e0010ae06fcdf51e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-11-15 13.07.41.excalidraw.md",
-    "Boltzmann Equation.md",
-    "Energy.md",
-    "Stellar Structure.md",
-    "PHYC30100 - Stellar Astrophysics.md",
-    "Astro is Cursed - Welcome to my TedTalk.md",
-    "Mean Free Path.md",
-    "Cauchy-Schwarz Inequality.md",
-    "3rd Year Labs.md",
-    "Van der Waals-London Interaction.md"
+    "Detectors.md",
+    "CCD.md",
+    "Semiconductor.md",
+    "Semiconductor Crystals.md",
+    "Band Gap.md",
+    "Bloch Theory.md",
+    "Nearly Free Electron Model.md",
+    "Tight Binding Model.md",
+    "Valence Electrons.md",
+    "PHYC30100 - Stellar Astrophysics.md"
   ]
 }

@@ -4,7 +4,7 @@ Outline two different Zone schemes and how they relate the presence of bands.
 Outline what tight binding theory is and how it can be applied to explain the electronic states of Carbon, Silicon and Magnesium.
 
 ### Bands
-Bands define the distinction between metals, semimetals, semiconductors and insulators.
+Bands define the distinction between metals, semi-metals, semiconductors and insulators.
 
 Every solid contains electrons. We see that the electrons in crystals are arranged in energy bands.
 These energy bands are separated by regions in energy for which no wavelike electron orbitals exist.
@@ -32,7 +32,7 @@ Bloch postulated that the effect of the periodic potential would modify the elec
 Electrons may be [[Difraction|diffracted]] or [[Scattering|scattered]] by the crystal. The electron has equal probability of scattering to the right or left and hence the **wavefunction forms a standing wave**.
 
 ##### Electron Probability Density
-Physically, $\rho(+)$ corresponds to electrons pilling-up at the positive ions where the potential energy is lower than for the traveling wave - this is known as **bonding**.
+Physically, $\rho(+)$ corresponds to electrons pilling-up at the positive ions where the potential energy is lower than for the travelling wave - this is known as **bonding**.
 $$\rho(+) = |\psi(+)|^2 \propto cos^2\left(\frac{\pi x}{a}\right)$$
 **Anti-Bonding** potential higher
 $$\rho(-) = |\psi(-)|^2 \propto sin^2\left(\frac{\pi x}{a}\right)$$

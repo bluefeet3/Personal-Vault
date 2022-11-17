@@ -13,3 +13,4 @@ $\quad$ - Mike Guidry - Stars and Stellar Processes (2019).pdf - M. Guidry
 [[Telescopes]]
 [[Radio Telescopes]]
 [[ESO - European Southern Observatory]]
+[[Detectors]]
