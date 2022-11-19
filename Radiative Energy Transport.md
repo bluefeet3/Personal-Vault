@@ -19,12 +19,12 @@ The local temperature solely depends on the thermodynamic properties of the loca
 ##### [[Boltzmann Equation]] - Energy Ratios
 The atomic energy levels of a given ion are populated inversely exponentially as a function of their energy. That is, lower energy levels are naturally more populated than higher energy levels.
 
-The population number $n_i$ of an energy state $i =$ number of atoms per unit volume.
-In thermal equilibrium, the population numbers follow a [[Boltzmann Distribution]]:$$\frac{n_i}{n_0} = \frac{g_i}{g_0}\cdot\exp\left( \frac{-\Delta E}{kT} \right)$$
+The population number $n_i$ of an energy state $i$.
+In thermal equilibrium, the population numbers follow a [[Boltzmann Distribution]]:$$\frac{n_i}{n_1} = \frac{g_i}{g_1}\cdot\exp\left( \frac{-\Delta E}{kT} \right)$$
 where $T \approx T_{exc}\,$ excitation temperature and $k =$ [[Boltzmann Constant]], and $g_i$ is the statistical weight of level $i$.
 $g_i = 2n^2$
 ```ad-note
-The ratio of $n_i$ over $n_0$ should be expected to be always less than 1
+The ratio of $n_i$ over $n_1$ should be expected to be always less than 1
 ```
 ### Ionisation
 ##### [[Saha Equation]] - Ionisation Ratios

@@ -2,17 +2,17 @@
 Derive an expression for the total lattice energy of 2N ions.
 What is the importance of the Madelung constant? Calculate the cohesive energy for ionic lattices.
 
-##### Labelling Electrons in atoms
-
-[[Quantum Number]]:
-According to the [[Pauli Exclusion Principle]], no two electrons can have the same four quantum numbers in the same atom.
+## Labelling Electrons in atoms
+### Quantum Number:
+According to the [[Pauli Exclusion Principle]], no two electrons can have the same four [[Quantum Number|quantum numbers]] in the same atom.
 
 'Filing' orbitals in the same energy level with one electron each before pairing up any electrons. 
 This is known as [[Hund’s Rules]].
 
-**What order do I fill the levels in?** [[The Aufbau Principle]] states that when predicting an atoms ground state electron configuration, electrons will occupy the lowest energy orbital available first.
+### What order do I fill the levels in?
+[[The Aufbau Principle]] states that when predicting an atoms ground state electron configuration, electrons will occupy the lowest energy orbital available first.
 
-##### Electrostatic or Madelung Energy
+## Electrostatic or Madelung Energy
 The **long-range interaction** between ions with charge ±q is the electrostatic interaction $\pm \frac{q^2}{r}$, attractive between ions of opposite charge and repulsive between ions of the same charge.
 The ions arrange themselves in whatever crystal structure gives the *strongest attractive interaction compatible with the repulsive interaction* at short distances between ion cores.
 
@@ -22,7 +22,7 @@ The [[Van der Waals-London Interaction|Van der Waals]] part of the attractive in
 
 The **main contribution** to the binding energy of ionic crystals is electrostatic and is called the [[Madelung energy]].
 
-##### Total Lattice Energy
+### Total Lattice Energy
 
 Derived from page 24 of the notes:
 The total lattice energy of the crystal of 2N ions at their equilibrium separation $R_0$ may be written as:

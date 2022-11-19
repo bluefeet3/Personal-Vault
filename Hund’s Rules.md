@@ -1,5 +1,7 @@
 **Hund's rule**: every [orbital](https://www.chem.purdue.edu/jmol/gloss/orbital.html) in a [subshell](https://www.chem.purdue.edu/jmol/gloss/subshell.html) is singly occupied with one [electron](https://www.chem.purdue.edu/jmol/gloss/electron.html) before any one [orbital](https://www.chem.purdue.edu/jmol/gloss/orbital.html) is doubly occupied, and all [electrons](https://www.chem.purdue.edu/jmol/gloss/electron.html) in singly occupied [orbitals](https://www.chem.purdue.edu/jmol/gloss/orbital.html) have the same spin.
 
+'Filing' orbitals in the same energy level with one electron each before pairing up any electrons. 
+
 # Rules of Total Angular Momentum
 Where J is the [[Total Angular Momentum]], L is the spacial momentum, and S is the spin.
 ## Rule 1
