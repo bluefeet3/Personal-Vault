@@ -11,7 +11,7 @@ Also known as Solid State Physics
 [[Defects and Structural Phase Transition]]
 [[Reciprocal Lattice Space]]
 [[Free Electron Fermi Gas]]
-[[Bloch Theory]] // [[Nearly Free Electron Model]]
+[[Band Gap]] // [[Nearly Free Electron Model]]
 [[Tight Binding Model]]
 [[Semiconductor Crystals]]
 [[PN-Junction]]
@@ -20,3 +20,6 @@ Also known as Solid State Physics
 [[Radiative Recombination]]
 [[Heat Capacity]]
 [[Magnetism]]
+
+
+[[Condensed Questions]]
