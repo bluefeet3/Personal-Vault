@@ -17,3 +17,4 @@ A third year module in UCD on [[Quantum Mechanics]].
 [[Ladder Operators]]
 [[QM Angular Momentum]]
 [[Spin]]
+[[Total Angular Momentum]]
