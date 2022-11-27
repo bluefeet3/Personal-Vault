@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spin.md",
+                "file": "Stellar Structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eceaaf8e63bdb754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86afc31122f3c49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boltzmann Constant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin.md",
+                "file": "Stellar Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin.md",
+                "file": "Stellar Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spin.md"
+                "file": "Stellar Structure.md"
               }
             }
           }
@@ -141,15 +160,15 @@
   },
   "active": "1a651e1113b6aec7",
   "lastOpenFiles": [
-    "Condensed Questions.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "The Zeeman Effect.md",
-    "Total Angular Momentum.md",
-    "PHYC30030 - Quantum Mechanics.md",
-    "Semiconductor Crystals.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Band Gap.md",
+    "Ideal Gas Law.md",
+    "Boltzmann Constant.md",
+    "Stellar Structure.md",
+    "Stellar Hydrostatic Equilibrium.md",
+    "Hydrostatic Equilibrium Derivation (STAR).md",
     "Spin.md",
-    "Bohr's Model.md"
+    "Stellar Interior.md",
+    "Stellar Temperature Gradient.md",
+    "Condensed Questions.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf"
   ]
 }

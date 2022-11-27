@@ -20,7 +20,7 @@ Temperature and pressure at the stellar surface are approximated to be 0.
 ## Physical State of the Gas
 The temperature at the stellar interior is very high, and thus the gas is completely ionised.
 The perfect gas approximation is valid, as the interaction between particle is very small:
-$$P =\frac{k \rho T}{\mu m_H} + P_{rad}$$where k is the Boltzmann constant, $m_H$ is the mass of the Hydrogen atom and $\mu$ the mean molecular weight in units of $m_H$
+$$P =\frac{k \rho T}{\mu m_H} + P_{rad}$$where k is the [[Boltzmann Constant]], $m_H$ is the mass of the Hydrogen atom and $\mu$ the mean molecular weight in **units** of $m_H$
 $$\mu = \frac{1}{2X + \frac{3}{4}Y + \frac{1}{2}Z}$$ where X is Hydrogen, Y Helium and Z all other elements.
 At high pressures, the radiative pressure must be included:
 $$P_{rad} = \frac{1}{3}aT^4$$
