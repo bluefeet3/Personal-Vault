@@ -29,3 +29,13 @@ Outline forward and reverse bias along with unbiased.
 - Referencing shockley/ideal diode equation
 - Current against voltage diagram
 
+## Optical Processes
+What is an exciton, k vs E diagram.
+
+What is a polaron
+
+### Thermal Properties
+What is heat capacity?
+Outline what the Dulong-Petit Law is
+
+Derive and apply the Einstein Model

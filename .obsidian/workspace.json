@@ -11,57 +11,16 @@
             "id": "1a651e1113b6aec7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
-      },
-      {
-        "id": "e775e46dc76bb608",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e49554b893038bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYC30030 - Quantum Mechanics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02a3f58491374888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Total Angular Momentum.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1409ef669c67c91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Zeeman Effect.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Zeeman Effect.md",
+                "file": "Spin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Zeeman Effect.md",
+                "file": "Spin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Zeeman Effect.md"
+                "file": "Spin.md"
               }
             }
           }
@@ -180,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1409ef669c67c91c",
+  "active": "1a651e1113b6aec7",
   "lastOpenFiles": [
-    "Total Angular Momentum.md",
+    "Condensed Questions.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
     "The Zeeman Effect.md",
+    "Total Angular Momentum.md",
     "PHYC30030 - Quantum Mechanics.md",
     "Semiconductor Crystals.md",
-    "Condensed Questions.md",
     "PHYC30050 - Condensed Matter Physics.md",
     "Band Gap.md",
     "Spin.md",
-    "Bohr's Model.md",
-    "Saha Equation.md"
+    "Bohr's Model.md"
   ]
 }
