@@ -10,13 +10,15 @@ Semiconductors are intermediate [[Band Gap]] materials which may conduct due to 
 
 An **intrinsic** semiconductor is a semiconductor material in its pure form.
 
+## Thermal Excitation in Semiconductors
 As the number of conduction electrons increases with temperature, the **resistance decreases** with increasing temperature (unlike metals).
 
-## Thermal Excitation in Semiconductors
 As an electron is excited to a higher state, a [[Holes|hole]] is left behind.
 ![[Holes]]
 
 ## Fermi Distribution in Intrinsic Semiconductors
+In intrinsic semiconductors the carrier density is derived from the Fermi distribution to be as follows:$$n_i^2 = N_V N_C \exp{\left(\frac{-E_g}{kT}\right)}$$where $N_V$, $N_C$ are the valence and conduction band concentrations at the bottom of the conduction band and the top of the valence band under conditions of full occupancy. $E_g$ is the band gap energy.
+
 ~ Slide 171
 
 $$E_F = \frac{1}{2}(E_C+E_V) + \frac{1}{2}kT\ln{\left(\frac{N_V}{N_C}\right)}$$
@@ -46,7 +48,7 @@ title: Conventionally
 ```
 
 ## Fermi Distribution in Extrinsic Semiconductors
-
+In extrinsic semiconductors, the carrier density is defined for either an n type or p type semiconductor.$$n_{n} = \frac{1}{2}\left[N_D - N_A + \sqrt{(N_D-N_A)^2 + 4n_i^2}\right]$$and $$n_{p} = \frac{1}{2}\left[N_A - N_D + \sqrt{(N_A-N_D)^2 + 4n_i^2}\right]$$
 
 ## Mobility
 The mobility is the magnitude of the drift velocity of a charge carrier per unit electric field.$$\mu = \frac{|v|}{E}$$

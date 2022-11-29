@@ -11,8 +11,13 @@
             "id": "1a651e1113b6aec7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Condensed Matter Physics - Exam 21-22.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Condensed Matter Physics - Exam 21-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Condensed Matter Physics - Exam 21-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Condensed Matter Physics - Exam 21-22.md"
+              }
             }
           }
         ]
@@ -132,15 +140,15 @@
   },
   "active": "1a651e1113b6aec7",
   "lastOpenFiles": [
+    "Pauli Exclusion Principle.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Condensed Matter Physics - Exam 21-22.md",
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Semiconductor Crystals.md",
+    "Condensed Matter Physics - Exam 21/22.md",
     "Magnetic Susceptibility.md",
     "Magnetism.md",
     "Diamagnetism.md",
-    "Langevin Equation.md",
-    "QM Angular Momentum.md",
-    "Electric Dipole Moment.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Condensed Questions.md",
-    "Stellar Structure.md"
+    "Langevin Equation.md"
   ]
 }
