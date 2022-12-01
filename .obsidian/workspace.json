@@ -11,13 +11,8 @@
             "id": "1a651e1113b6aec7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Condensed Matter Physics - Exam 21-22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "radiative pressure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Condensed Matter Physics - Exam 21-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Condensed Matter Physics - Exam 21-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Condensed Matter Physics - Exam 21-22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,15 +132,15 @@
   },
   "active": "1a651e1113b6aec7",
   "lastOpenFiles": [
-    "Pauli Exclusion Principle.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Condensed Matter Physics - Exam 21-22.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Semiconductor Crystals.md",
-    "Condensed Matter Physics - Exam 21/22.md",
-    "Magnetic Susceptibility.md",
-    "Magnetism.md",
     "Diamagnetism.md",
-    "Langevin Equation.md"
+    "Ionic Crystals.md",
+    "Condensed Matter Physics - Exam 21-22.md",
+    "Radiative Pressure.md",
+    "Stellar Atmospheres and Spectral Line Formation.md",
+    "Optical Depth.md",
+    "Semiconductor Crystals.md",
+    "Optical Thickness.md",
+    "Stellar Structure.md",
+    "Radiative Energy.md"
   ]
 }

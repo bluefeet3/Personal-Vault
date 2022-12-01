@@ -1,0 +1,1 @@
+$$P_{rad} = \frac{1}{3} a T^4$$where $a$ is the [[Radiation Density Constant]].
