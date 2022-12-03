@@ -18,3 +18,6 @@ A third year module in UCD on [[Quantum Mechanics]].
 [[QM Angular Momentum]]
 [[Spin]]
 [[Total Angular Momentum]]
+
+## Past Exam Papers
+[[QM 20212022]]

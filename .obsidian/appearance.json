@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Shimmering Focus",
   "theme": "system",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "biggerMaths"
+  ]
 }

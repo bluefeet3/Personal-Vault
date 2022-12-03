@@ -1,0 +1,1 @@
+Absorption Lines are created when *an atom absorbs a photon* with exactly the energy required for an [[Electron]] to move from a lower to a higher orbit.

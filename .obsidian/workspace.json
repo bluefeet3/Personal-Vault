@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e01e98ed56c717b8",
+        "id": "b21f4c659eb037ac",
         "type": "tabs",
         "children": [
           {
-            "id": "1a651e1113b6aec7",
+            "id": "4c7548d990e3341b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spectral Types.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radiative pressure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spectral Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spectral Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +127,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Spectral Types.md"
+              }
+            }
+          },
+          {
+            "id": "21b9539c74edd3b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -127,20 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "1a651e1113b6aec7",
+  "active": "4c7548d990e3341b",
   "lastOpenFiles": [
-    "Diamagnetism.md",
-    "Ionic Crystals.md",
-    "Condensed Matter Physics - Exam 21-22.md",
-    "Radiative Pressure.md",
+    "Boltzmann Equation.md",
+    "Radiative Energy Transport.md",
+    "Partition Function.md",
+    "Saha Equation.md",
+    "Ideal Gas Law.md",
+    "Stefan-Boltzmann Constant.md",
+    "Spectral Types.md",
     "Stellar Atmospheres and Spectral Line Formation.md",
-    "Optical Depth.md",
-    "Semiconductor Crystals.md",
-    "Optical Thickness.md",
-    "Stellar Structure.md",
-    "Radiative Energy.md"
+    "Absorption Lines.md",
+    "Electron.md"
   ]
 }
