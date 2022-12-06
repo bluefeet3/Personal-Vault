@@ -21,6 +21,7 @@ In intrinsic semiconductors the carrier density is derived from the Fermi distri
 
 ~ Slide 171
 
+[[Fermi Energy]]
 $$E_F = \frac{1}{2}(E_C+E_V) + \frac{1}{2}kT\ln{\left(\frac{N_V}{N_C}\right)}$$
 
 ![[valenceToConductionBand.png|400]]

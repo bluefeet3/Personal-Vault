@@ -22,5 +22,5 @@ We find that $L_z(L_\pm f) = (\mu \pm \hbar)(L_\pm f)$, showing that $L_\pm$ is 
 At the bottom of the ladder: $L_- f_b = 0$ hence the eigenvalue for $L_z$ at the base of the ladder as: $$L_z f_b = \hbar \bar{l}f_b$$ with $\bar{l} = -l$
 $$l = \frac{N}{2}$$
 The eigenfunctions are characterised by the numbers l and m.
-### $$L^2 f^m_l = \hbar l (l+1)f^m_l$$$$L_z f^m_l = \hbar m f^m_l$$
+$$L^2 f^m_l = \hbar l (l+1)f^m_l$$$$L_z f^m_l = \hbar m f^m_l$$
 $$\vec{J} = \vec{L} + \vec{S}$$

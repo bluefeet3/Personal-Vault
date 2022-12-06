@@ -4,5 +4,7 @@
   "shimmering-focus@@show-ribbon": false,
   "shimmering-focus@@show-search-pane-suggestions": false,
   "shimmering-focus@@no-tabbar-header-hybrid": false,
-  "shimmering-focus@@mac-os-native": false
+  "shimmering-focus@@mac-os-native": false,
+  "shimmering-focus@@show-tab-list-button": false,
+  "shimmering-focus@@no-pdf-dark-mode": true
 }

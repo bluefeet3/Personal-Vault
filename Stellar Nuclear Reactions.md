@@ -24,7 +24,7 @@ This reaction is much faster than reaction 1. Thus there is very little deuteron
 Last step can take 3 different forms. The PPL chain just described is the most probable one. It produces 91% of the energy in the sun.
 
 ### The Carbon Cycle
-Above 20 million degrees and for stars with mass 1.5 times that of the sun, the dominant cycle is the CNO.
+Above 20 million degrees and for stars with mass 1.3 times that of the sun, the dominant cycle is the [[CNO Cycle]].
 
 The CNO reaction rate increases with temperature.
 

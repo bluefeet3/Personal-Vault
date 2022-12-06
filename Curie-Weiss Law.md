@@ -1,0 +1,1 @@
+Above the Curie temperature, the *moments are oriented randomly*, resulting in a **zero net magnetisation**. In this region, the substance is paramagnetic, and its [[Magnetic Susceptibility]] is given by: $$\chi = \frac{C}{T-T_C}$$where $C$ is the [[Curie Constant]] and $T_C$ is the [[Curie Temperature]].

@@ -15,7 +15,7 @@ A third year module in UCD on [[Quantum Mechanics]].
 [[Entanglement]]
 [[The Uncertainty Principle]]
 [[Ladder Operators]]
-[[QM Angular Momentum]]
+[[Spatial Angular Momentum]]
 [[Spin]]
 [[Total Angular Momentum]]
 

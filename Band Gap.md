@@ -15,7 +15,7 @@ The crystal behaves as an **insulator** *if the allowed energy bands are either 
 
 The crystal behaves as a **metal** *if one or more bands are partly filled*, say between 10 and 90 percent filled. 
 
-The crystal is a **semiconductor** or a **semimetal** *if one or two bands are slightly filled or slightly empty*.
+The crystal is a **semiconductor** or a **semi-metal** *if one or two bands are slightly filled or slightly empty*.
 
 ##### Energy Levels
 Isolated atoms have *precise allowed energy levels*.

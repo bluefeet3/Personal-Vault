@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b21f4c659eb037ac",
+        "id": "aeb20f56c07eaceb",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7548d990e3341b",
+            "id": "a64ff8cee9719080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spectral Types.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phase transition temperature",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spectral Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spectral Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spectral Types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,17 +138,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "4c7548d990e3341b",
+  "active": "a64ff8cee9719080",
   "lastOpenFiles": [
-    "Boltzmann Equation.md",
-    "Radiative Energy Transport.md",
-    "Partition Function.md",
-    "Saha Equation.md",
-    "Ideal Gas Law.md",
-    "Stefan-Boltzmann Constant.md",
-    "Spectral Types.md",
-    "Stellar Atmospheres and Spectral Line Formation.md",
-    "Absorption Lines.md",
-    "Electron.md"
+    "Lande g Factor.md",
+    "Curie Constant.md",
+    "Paramagnetism.md",
+    "Magnetism.md",
+    "Ferromagnetism.md",
+    "Diamagnetism.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Curie-Weiss Law.md",
+    "Coulomb Interaction.md",
+    "Curie Temperature.md"
   ]
 }

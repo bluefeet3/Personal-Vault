@@ -1,0 +1,1 @@
+$$C = \frac{n p^2 \mu_B^2}{3k_B}$$where $n$ is the number of magnetic atoms per unit volume, $k_B$ is the [[Boltzmann Constant]], $p=g[J(J+1)]^{1/2}$ with $g$ being the [[Lande g Factor]], and $\mu_B$ is the [[Bohr Magneton]].
