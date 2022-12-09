@@ -4,15 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb20f56c07eaceb",
+        "id": "83f1f5868b70695d",
         "type": "tabs",
         "children": [
           {
-            "id": "a64ff8cee9719080",
+            "id": "b327f7b2052313f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Crystal Binding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "263da6fa5ed39479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781699a7b05360ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
+              }
             }
           }
         ]
@@ -44,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phase transition temperature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Crystal Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Crystal Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Crystal Binding.md"
+              }
             }
           },
           {
@@ -135,20 +160,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "a64ff8cee9719080",
+  "active": "b327f7b2052313f8",
   "lastOpenFiles": [
-    "Lande g Factor.md",
-    "Curie Constant.md",
-    "Paramagnetism.md",
-    "Magnetism.md",
-    "Ferromagnetism.md",
-    "Diamagnetism.md",
-    "PHYC30050 - Condensed Matter Physics.md",
+    "Van der Waals-London Interaction.md",
+    "Stellar Luminosity.md",
+    "Planck's Constant.md",
+    "Electron.md",
+    "Exciton.md",
+    "Direct and Indirect Absorption.md",
     "Curie-Weiss Law.md",
-    "Coulomb Interaction.md",
-    "Curie Temperature.md"
+    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
+    "Diamagnetism.md",
+    "Paramagnetism.md"
   ]
 }
