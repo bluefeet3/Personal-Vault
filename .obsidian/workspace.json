@@ -4,30 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83f1f5868b70695d",
+        "id": "9a7882bc9464b55d",
         "type": "tabs",
         "children": [
           {
-            "id": "b327f7b2052313f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crystal Binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "263da6fa5ed39479",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "781699a7b05360ae",
+            "id": "4865408733b2faef",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -35,8 +16,22 @@
                 "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
               }
             }
+          },
+          {
+            "id": "1dd6469432833a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard Magnets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crystal Binding.md",
+                "file": "Hard Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crystal Binding.md",
+                "file": "Hard Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crystal Binding.md"
+                "file": "Hard Magnets.md"
               }
             }
           },
@@ -162,17 +157,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "b327f7b2052313f8",
+  "active": "1dd6469432833a3f",
   "lastOpenFiles": [
-    "Van der Waals-London Interaction.md",
-    "Stellar Luminosity.md",
+    "Ferromagnetism.md",
+    "Hard Magnets.md",
+    "Hysteresis Loop.md",
+    "Magnetism.md",
     "Planck's Constant.md",
-    "Electron.md",
+    "Condensed Matter Physics - Exam 21-22.md",
+    "Condensed Questions.md",
     "Exciton.md",
-    "Direct and Indirect Absorption.md",
-    "Curie-Weiss Law.md",
-    "PDFS/Condensed Matter Physics Lecture Notes.pdf",
-    "Diamagnetism.md",
-    "Paramagnetism.md"
+    "Drude Model.md",
+    "Free Electron Model.md"
   ]
 }
