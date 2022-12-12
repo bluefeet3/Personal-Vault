@@ -11,27 +11,16 @@
             "id": "4865408733b2faef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFS/Condensed Matter Physics Lecture Notes.pdf"
-              }
-            }
-          },
-          {
-            "id": "1dd6469432833a3f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Ferromagnetism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Ferromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Ferromagnetism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard Magnets.md"
+                "file": "Ferromagnetism.md"
               }
             }
           },
@@ -157,17 +146,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "1dd6469432833a3f",
+  "active": "4865408733b2faef",
   "lastOpenFiles": [
-    "Ferromagnetism.md",
-    "Hard Magnets.md",
-    "Hysteresis Loop.md",
     "Magnetism.md",
-    "Planck's Constant.md",
-    "Condensed Matter Physics - Exam 21-22.md",
-    "Condensed Questions.md",
-    "Exciton.md",
-    "Drude Model.md",
-    "Free Electron Model.md"
+    "Paramagnetism.md",
+    "Diamagnetism.md",
+    "PHYC30050 - Condensed Matter Physics.md",
+    "Heat Capacity.md",
+    "Debye Model of Heat Capacity.md",
+    "Radiative Recombination.md",
+    "Ferromagnetism.md",
+    "Optical Processes and Excitations.md",
+    "Direct and Indirect Absorption.md"
   ]
 }

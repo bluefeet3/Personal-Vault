@@ -56,7 +56,7 @@ Although the Einstein model is more accurate, it still breaks down for mid range
 ```
 
 ## Is the Einstein Model correct?
-At low temperature, the heat capacity is found to have acubic temperature dependence (not exponential)
+At low temperature, the heat capacity is found to have a cubic temperature dependence (not exponential)
 
 The model assumes that atoms act independently, however, atoms act collectively.
 
