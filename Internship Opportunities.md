@@ -1,7 +1,7 @@
 https://astrophysicsgirl.com/internships/europe/
 
 Who to get references from:
-- Morgan Faser
+- Morgan Fraser
 - Rebecca Garcia Lopez
 - Robert Jeffery?
 

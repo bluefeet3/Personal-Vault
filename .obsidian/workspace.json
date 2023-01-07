@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Internship Opportunities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9b8a344b9d00e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESO Application Draft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Internship Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Magnets.md",
+                "file": "Internship Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard Magnets.md"
+                "file": "Internship Opportunities.md"
               }
             }
           },
@@ -159,15 +172,15 @@
   },
   "active": "1dd6469432833a3f",
   "lastOpenFiles": [
-    "Ferromagnetism.md",
+    "ESO Application Draft.md",
+    "Internship Opportunities.md",
     "Hard Magnets.md",
+    "Ferromagnetism.md",
     "Hysteresis Loop.md",
     "Magnetism.md",
     "Planck's Constant.md",
     "Condensed Matter Physics - Exam 21-22.md",
     "Condensed Questions.md",
-    "Exciton.md",
-    "Drude Model.md",
-    "Free Electron Model.md"
+    "Exciton.md"
   ]
 }
