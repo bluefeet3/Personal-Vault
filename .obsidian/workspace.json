@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ferromagnetism.md",
+                "file": "Saha Equation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ferromagnetism.md",
+                "file": "Saha Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ferromagnetism.md",
+                "file": "Saha Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ferromagnetism.md"
+                "file": "Saha Equation.md"
               }
             }
           },
@@ -144,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "active": "4865408733b2faef",
   "lastOpenFiles": [
-    "Magnetism.md",
-    "Paramagnetism.md",
-    "Diamagnetism.md",
-    "PHYC30050 - Condensed Matter Physics.md",
-    "Heat Capacity.md",
-    "Debye Model of Heat Capacity.md",
-    "Radiative Recombination.md",
-    "Ferromagnetism.md",
-    "Optical Processes and Excitations.md",
-    "Direct and Indirect Absorption.md"
+    "Partition Function.md",
+    "Boltzmann Equation.md",
+    "Spectral Types.md",
+    "Saha Equation.md",
+    "Stellar Evolution.md",
+    "Solar Radius.md",
+    "Stefan-Boltzmann Constant.md",
+    "Spectral Lines.md",
+    "Absorption Lines.md",
+    "Star Formation.md"
   ]
 }

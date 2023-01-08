@@ -6,7 +6,7 @@ $\quad$- The [[Thermal Time Scale]] $t_t$
 $\quad$- The [[Dynamical or Free-fall Time Scale]] $t_d$
 
 # Star Formation
-Stars are born within the [[Interstellar Medium]] inside giant clouds of gas and dust called **molecular clouds**.
+Stars are born within the [[The Interstellar Medium]] inside giant clouds of gas and dust called **molecular clouds**.
 
 ## Molecular Clouds
 Mostly comprised of 90% hydrogen and 9% helium with some other dusts (silicates and graphite), localised in the plane of the galaxy.
